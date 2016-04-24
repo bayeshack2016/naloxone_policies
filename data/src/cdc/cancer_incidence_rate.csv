@@ -1,0 +1,3162 @@
+County, FIPS,cancer_incidence_per_100000
+"US (SEER+NPCR)(1,10)",0,453.8
+"Union County, Florida(6,10)",12125,1206.9
+"Williamsburg City, Virginia(6,10)",51830,1014.2
+"Lexington City, Virginia(6,10)",51678,755
+"Charlottesville City, Virginia(6,10)",51540,718.9
+"Covington City, Virginia(6,10)",51580,652
+"Petersburg City, Virginia(6,10)",51730,651.3
+"Bracken County, Kentucky(7,9)",21023,639.7
+"Powell County, Kentucky(7,9)",21197,630.4
+"Loup County, Nebraska(6,10)",31115,613.8
+"Waynesboro City, Virginia(6,10)",51820,596.9
+"Bedford City, Virginia(6,10)",51515,596.6
+"Harrisonburg City, Virginia(6,10)",51660,591.1
+"Clay County, West Virginia(6,10)",54015,591
+"Sherman County, Oregon(6,10)",41055,587.4
+"Musselshell County, Montana(6,10)",30065,587
+"Iberville Parish, Louisiana(7,9)",22047,586.2
+"Sargent County, North Dakota(6,10)",38081,579.7
+"Perry County, Kentucky(7,9)",21193,579.2
+"Mason County, Kentucky(7,9)",21161,578.9
+"Livingston County, Kentucky(7,9)",21139,578.6
+"Buena Vista City, Virginia(6,10)",51530,578.2
+"Wyoming County, New York(6,10)",36121,577.4
+"Kingsbury County, South Dakota(6,10)",46077,577
+"Meagher County, Montana(6,10)",30059,573.8
+"Nantucket County, Massachusetts(6,10)",25019,572.8
+"Vilas County, Wisconsin(6,10)",55125,572.8
+"Clay County, Kentucky(7,9)",21051,572.1
+"East Feliciana Parish, Louisiana(7,9)",22037,570.8
+"Wolfe County, Kentucky(7,9)",21237,570.6
+"Fredericksburg City, Virginia(6,10)",51630,566.3
+"Lake and Peninsula Borough, Alaska(6,10)",2164,564.6
+"Henry County, Kentucky(7,9)",21103,564.5
+"Bath County, Kentucky(7,9)",21011,564.2
+"Simpson County, Kentucky(7,9)",21213,563.4
+"Cumberland County, Kentucky(7,9)",21057,562.7
+"Yalobusha County, Mississippi(6,10)",28161,561.9
+"Jackson County, Kentucky(7,9)",21109,561.4
+"Humphreys County, Mississippi(6,10)",28053,560.9
+"Knox County, Kentucky(7,9)",21121,560.5
+"Cameron County, Pennsylvania(6,10)",42023,560.4
+"Cape May County, New Jersey(7,8)",34009,559.1
+"Torrance County, New Mexico(7,8)",35057,558.5
+"Leslie County, Kentucky(7,9)",21131,558.3
+"Dewey County, South Dakota(6,10)",46041,555.7
+"Perry County, Alabama(6,10)",1105,555.6
+"Magoffin County, Kentucky(7,9)",21153,554.7
+"Holmes County, Mississippi(6,10)",28051,554.1
+"Lewis County, West Virginia(6,10)",54041,553
+"Nicholas County, Kentucky(7,9)",21181,552.9
+"Macon County, Illinois(6,10)",17115,551.5
+"Nelson County, Kentucky(7,9)",21179,551.5
+"Towns County, Georgia(7,9)",13281,550.7
+"Floyd County, Kentucky(7,9)",21071,550.3
+"Chautauqua County, New York(6,10)",36013,550.1
+"Webster County, Mississippi(6,10)",28155,549.9
+"Estill County, Kentucky(7,9)",21065,549.3
+"Grand Isle County, Vermont(6,10)",50013,548.5
+"Ida County, Iowa(7,8)",19093,548.4
+"Menifee County, Kentucky(7,9)",21165,548.3
+"McCreary County, Kentucky(7,9)",21147,547.8
+"Hopewell City, Virginia(6,10)",51670,547.6
+"Gloucester County, New Jersey(7,8)",34015,544.2
+"Grayson County, Kentucky(7,9)",21085,544.2
+"Erie County, New York(6,10)",36029,544.1
+"Sharkey County, Mississippi(6,10)",28125,543.8
+"Jackson County, Iowa(7,8)",19097,543.5
+"Stanley County, South Dakota(6,10)",46117,542.1
+"Carter County, Kentucky(7,9)",21043,541.3
+"Grenada County, Mississippi(6,10)",28043,541.3
+"Osceola County, Michigan(6,10)",26133,541.3 #  
+"Rowan County, Kentucky(7,9)",21205,540.5
+"Trimble County, Kentucky(7,9)",21223,540.3
+"Danville City, Virginia(6,10)",51590,539
+"Mineral County, Montana(6,10)",30061,538.8
+"Lewis County, Tennessee(6,10)",47101,538.7
+"Lewis County, Idaho(6,10)",16061,538.6
+"Meade County, Kentucky(7,9)",21163,538.4
+"Sullivan County, Pennsylvania(6,10)",42113,538.3
+"Echols County, Georgia(7,9)",13101,538.1
+"Logan County, Kentucky(7,9)",21141,538
+"Staunton City, Virginia(6,10)",51790,537.9
+"Alpena County, Michigan(6,10)",26007,537.3 #  
+"Dallam County, Texas(6,10)",48111,537.2
+"Crawford County, Illinois(6,10)",17033,536.7
+"Washington Parish, Louisiana(7,9)",22117,536.6
+"Rensselaer County, New York(6,10)",36083,536.3
+"Bullitt County, Kentucky(7,9)",21029,536.2
+"Mercer County, Kentucky(7,9)",21167,536.1
+"Lumpkin County, Georgia(7,9)",13187,536.1
+"Scott County, Mississippi(6,10)",28123,535.9
+"Ohio County, Indiana(6,10)",18115,535.7
+"Griggs County, North Dakota(6,10)",38039,535.5
+"Scott County, Tennessee(6,10)",47151,535.4
+"Gilliam County, Oregon(6,10)",41021,535.4
+"Christian County, Illinois(6,10)",17021,535.2
+"Carlisle County, Kentucky(7,9)",21039,534.8
+"Washington County, New York(6,10)",36115,534.1
+"Madison County, Georgia(7,9)",13195,534
+"Benton County, Tennessee(6,10)",47005,533.9
+"Ohio County, Kentucky(7,9)",21183,533.6
+"Philadelphia County, Pennsylvania(6,10)",42101,533.5
+"Marion County, Illinois(6,10)",17121,533.4
+"Cheatham County, Tennessee(6,10)",47021,533.3
+"Adams County, Iowa(7,8)",19003,533.1
+"Gem County, Idaho(6,10)",16045,533
+"Haakon County, South Dakota(6,10)",46055,532.8
+"Clinton County, New York(6,10)",36019,532.7
+"Rhea County, Tennessee(6,10)",47143,532.5
+"Jackson County, Arkansas(6,10)",5067,532.1
+"Eddy County, North Dakota(6,10)",38027,532.1
+"Wicomico County, Maryland(6,10)",24045,532.1
+"Burlington County, New Jersey(7,8)",34005,531.8
+"Laurel County, Kentucky(7,9)",21125,531.7
+"Buffalo County, South Dakota(6,10)",46017,531.6
+"Macon County, Tennessee(6,10)",47111,531.4
+"Whitley County, Kentucky(7,9)",21235,531.3
+"Greenup County, Kentucky(7,9)",21089,531.3
+"Camden County, New Jersey(7,8)",34007,530.9
+"St. Landry Parish, Louisiana(7,9)",22097,530.4
+"Robertson County, Kentucky(7,9)",21201,530.3
+"Spencer County, Kentucky(7,9)",21215,530.2
+"Grundy County, Illinois(6,10)",17063,530.2
+"Wyoming County, Pennsylvania(6,10)",42131,529.8
+"Monmouth County, New Jersey(7,8)",34025,529.6
+"Martin County, Kentucky(7,9)",21159,529.6
+"Iron County, Missouri(6,10)",29093,529.5
+"Terrell County, Georgia(7,9)",13273,529.5
+"Vermilion Parish, Louisiana(7,9)",22113,529.1
+"Saline County, Nebraska(6,10)",31151,529
+"Wayne County, Michigan(7,8)",26163,528.7
+"Lee County, Kentucky(7,9)",21129,528.6
+"Fleming County, Kentucky(7,9)",21069,528.5
+"Tucker County, West Virginia(6,10)",54093,528.4
+"Wexford County, Michigan(6,10)",26165,528.4 #  
+"Dickinson County, Iowa(7,8)",19059,528.4
+"Calhoun County, Iowa(7,8)",19025,528.1
+"Suffolk County, New York(6,10)",36103,528
+"Martin County, Indiana(6,10)",18101,527.7
+"Letcher County, Kentucky(7,9)",21133,527.4
+"Towner County, North Dakota(6,10)",38095,527.4
+"Lawrence County, Mississippi(6,10)",28077,527.4
+"Calhoun County, Mississippi(6,10)",28013,527.3
+"Humphreys County, Tennessee(6,10)",47085,527.3
+"Quitman County, Georgia(7,9)",13239,527.2
+"Northampton County, Virginia(6,10)",51131,527.2
+"Kent County, Delaware(6,10)",10001,527.2
+"Hamilton County, New York(6,10)",36041,526.9
+"West Baton Rouge Parish, Louisiana(7,9)",22121,526.7
+"Nelson County, Virginia(6,10)",51125,526.7
+"Forrest County, Mississippi(6,10)",28035,526.5
+"Union County, Tennessee(6,10)",47173,526.2
+"Onondaga County, New York(6,10)",36067,525.9
+"Mason County, Illinois(6,10)",17125,525.8
+"Northampton County, Pennsylvania(6,10)",42095,525.7
+"Jefferson County, Illinois(6,10)",17081,525.6
+"Middlesex County, Virginia(6,10)",51119,525.6
+"Martinsville City, Virginia(6,10)",51690,525.4
+"McLean County, Kentucky(7,9)",21149,525.3
+"Delaware County, Pennsylvania(6,10)",42045,525.2
+"Boyd County, Kentucky(7,9)",21019,525
+"Caldwell County, Kentucky(7,9)",21033,525
+"Ocean County, New Jersey(7,8)",34029,524.9
+"Daviess County, Kentucky(7,9)",21059,524.8
+"Lawrence County, Kentucky(7,9)",21127,524.8
+"Golden Valley County, Montana(6,10)",30037,524.5
+"Pulaski County, Illinois(6,10)",17153,524.5
+"Lenoir County, North Carolina(6,10)",37107,524.4
+"Rockcastle County, Kentucky(7,9)",21203,524.4
+"Winn Parish, Louisiana(7,9)",22127,524.4
+"Beaufort County, North Carolina(6,10)",37013,524.2
+"Taylor County, Kentucky(7,9)",21217,524.1
+"Logan County, West Virginia(6,10)",54045,523.9
+"Madison County, Kentucky(7,9)",21151,523.5
+"Tunica County, Mississippi(6,10)",28143,523.3
+"Pulaski County, Kentucky(7,9)",21199,523.2
+"Lincoln County, Kentucky(7,9)",21137,523.1
+"Clark County, Kentucky(7,9)",21049,522.6
+"Polk County, Texas(6,10)",48373,522.6
+"Amelia County, Virginia(6,10)",51007,522.5
+"Refugio County, Texas(6,10)",48391,522.1
+"Breathitt County, Kentucky(7,9)",21025,522.1
+"Cortland County, New York(6,10)",36023,522
+"Gregory County, South Dakota(6,10)",46053,521.9
+"Lycoming County, Pennsylvania(6,10)",42081,521.8
+"Pulaski County, Missouri(6,10)",29169,521.6
+"Sanborn County, South Dakota(6,10)",46111,521.4
+"Clinton County, Kentucky(7,9)",21053,521.3
+"Chickasaw County, Mississippi(6,10)",28017,521.3
+"Marion County, Tennessee(6,10)",47115,521.2
+"Grand Traverse County, Michigan(6,10)",26055,521.2 #  
+"Clay County, Illinois(6,10)",17025,521
+"Oswego County, New York(6,10)",36075,520.6
+"Genesee County, New York(6,10)",36037,520.5
+"Boone County, Nebraska(6,10)",31011,520.4
+"Lee County, Georgia(7,9)",13177,520.4
+"Rockingham County, North Carolina(6,10)",37157,520.3
+"Vermilion County, Illinois(6,10)",17183,520.2
+"Wayne County, Missouri(6,10)",29223,520.2
+"Brown County, Illinois(6,10)",17009,520.2
+"La Salle County, Illinois(6,10)",17099,519.9
+"Jefferson County, Kentucky(7,9)",21111,519.9
+"Wrangell-Petersburg Census Area, Alaska(6,10)",2280,519.7
+"Oldham County, Kentucky(7,9)",21185,519.6
+"Hart County, Kentucky(7,9)",21099,519.5
+"Stillwater County, Montana(6,10)",30095,519.3
+"Allegany County, Maryland(6,10)",24001,519.3
+"Granville County, North Carolina(6,10)",37077,519.2
+"Livingston County, Illinois(6,10)",17105,519
+"Montgomery County, Kentucky(7,9)",21173,518.9
+"Rockingham County, New Hampshire(6,10)",33015,518.8
+"Campbell County, Kentucky(7,9)",21037,518.7
+"Jackson Parish, Louisiana(7,9)",22049,518.6
+"Grays Harbor County, Washington(7,8)",53027,518.4
+"Pike County, Kentucky(7,9)",21195,518.3
+"Union County, South Dakota(6,10)",46127,518.1
+"Cattaraugus County, New York(6,10)",36009,517.8
+"Plymouth County, Massachusetts(6,10)",25023,517.7
+"Edwards County, Illinois(6,10)",17047,517.6
+"Hamilton County, Illinois(6,10)",17065,517.5
+"Marion County, Missouri(6,10)",29127,517.2
+"Lee County, Mississippi(6,10)",28081,517.1
+"St. Bernard Parish, Louisiana(7,9)",22087,516.9
+"Flathead County, Montana(6,10)",30029,516.8
+"Polk County, Georgia(7,9)",13233,516.7
+"Salem County, New Jersey(7,8)",34033,516.6
+"Swain County, North Carolina(6,10)",37173,516.6
+"Garrard County, Kentucky(7,9)",21079,516.6
+"Wapello County, Iowa(7,8)",19179,516.3
+"McClain County, Oklahoma(6,10)",40087,516.3
+"Thomas County, Nebraska(6,10)",31171,516.2
+"Foster County, North Dakota(6,10)",38031,516.2
+"Gallatin County, Kentucky(7,9)",21077,516
+"McLean County, North Dakota(6,10)",38055,515.6
+"Iberia Parish, Louisiana(7,9)",22045,515.4
+"Monroe County, Arkansas(6,10)",5095,515.3
+"Columbia County, Pennsylvania(6,10)",42037,515.2
+"Sangamon County, Illinois(6,10)",17167,515.2
+"Fall River County, South Dakota(6,10)",46047,515.1
+"Claiborne County, Tennessee(6,10)",47025,515
+"Ingham County, Michigan(6,10)",26065,514.9 #  
+"Elk County, Pennsylvania(6,10)",42047,514.8
+"King William County, Virginia(6,10)",51101,514.8
+"Owen County, Kentucky(7,9)",21187,514.8
+"Knox County, Ohio(6,10)",39083,514.7
+"Stewart County, Tennessee(6,10)",47161,514.7
+"Wetzel County, West Virginia(6,10)",54103,514.6
+"Oneida County, Wisconsin(6,10)",55085,514.4
+"Richmond County, New York(6,10)",36085,514.4
+"Genesee County, Michigan(6,10)",26049,514.3 #  
+"Nassau County, New York(6,10)",36059,514.3
+"St. Francois County, Missouri(6,10)",29187,513.8
+"Grant County, Kentucky(7,9)",21081,513.7
+"Anderson County, Kentucky(7,9)",21005,513.5
+"Copiah County, Mississippi(6,10)",28029,513.2
+"Lincoln County, West Virginia(6,10)",54043,513.2
+"De Witt County, Illinois(6,10)",17039,512.9
+"Gray County, Texas(6,10)",48179,512.8
+"Stewart County, Georgia(7,9)",13259,512.8
+"East Carroll Parish, Louisiana(7,9)",22035,512.7
+"Yancey County, North Carolina(6,10)",37199,512.6
+"Pickens County, Georgia(7,9)",13227,512.6
+"Hardin County, Kentucky(7,9)",21093,512.4
+"Chenango County, New York(6,10)",36017,512.4
+"Roanoke City, Virginia(6,10)",51770,512.4
+"Franklin County, Kentucky(7,9)",21073,512.2
+"Somerset County, Maryland(6,10)",24039,511.9
+"Webster County, West Virginia(6,10)",54101,511.9
+"Putnam County, New York(6,10)",36079,511.8
+"Wabash County, Illinois(6,10)",17185,511.8
+"Mitchell County, Georgia(7,9)",13205,511.7
+"Tazewell County, Illinois(6,10)",17179,511.5
+"Leflore County, Mississippi(6,10)",28083,511.5
+"Monroe County, Kentucky(7,9)",21171,511.5
+"Salem City, Virginia(6,10)",51775,511.5
+"Fallon County, Montana(6,10)",30025,511.4
+"Warren County, New York(6,10)",36113,511.3
+"Cumberland County, New Jersey(7,8)",34011,511.3
+"Washington County, Indiana(6,10)",18175,511.2
+"Spalding County, Georgia(7,9)",13255,511.1
+"Montgomery County, New York(6,10)",36057,511
+"Pierce County, Washington(7,8)",53053,510.9
+"Marion County, West Virginia(6,10)",54049,510.9
+"Chattahoochee County, Georgia(7,9)",13053,510.8
+"Washington County, Illinois(6,10)",17189,510.8
+"Chambers County, Alabama(6,10)",1017,510.7
+"Hale County, Alabama(6,10)",1065,510.4
+"Schuyler County, New York(6,10)",36097,510.4
+"Marion County, Kentucky(7,9)",21155,510.2
+"Montgomery County, Missouri(6,10)",29139,510
+"Piatt County, Illinois(6,10)",17147,509.9
+"Franklin County, Illinois(6,10)",17055,509.8
+"Hickman County, Tennessee(6,10)",47081,509.6
+"Peoria County, Illinois(6,10)",17143,509.6
+"Roosevelt County, Montana(6,10)",30085,509.5
+"Cameron Parish, Louisiana(7,9)",22023,509.4
+"Butler County, Pennsylvania(6,10)",42019,509.4
+"Lee County, Iowa(7,8)",19111,509.2
+"Bartow County, Georgia(7,9)",13015,509
+"Saratoga County, New York(6,10)",36091,508.7
+"Kanawha County, West Virginia(6,10)",54039,508.7
+"Butts County, Georgia(7,9)",13035,508.7
+"Belknap County, New Hampshire(6,10)",33001,508.6
+"Webster County, Kentucky(7,9)",21233,508.3
+"Des Moines County, Iowa(7,8)",19057,508.3
+"Chemung County, New York(6,10)",36015,508.2
+"Hughes County, Oklahoma(6,10)",40063,508.2
+"Caldwell County, Missouri(6,10)",29025,508.2
+"Rowan County, North Carolina(6,10)",37159,508.1
+"Nottoway County, Virginia(6,10)",51135,508
+"Bienville Parish, Louisiana(7,9)",22013,508
+"Hughes County, South Dakota(6,10)",46065,507.7
+"Merrimack County, New Hampshire(6,10)",33013,507.6
+"Judith Basin County, Montana(6,10)",30045,507.5
+"Johnson County, Kentucky(7,9)",21115,507.4
+"Pointe Coupee Parish, Louisiana(7,9)",22077,507.4
+"Boise County, Idaho(6,10)",16015,507.4
+"Scott County, Kentucky(7,9)",21209,507.3
+"Penobscot County, Maine(6,10)",23019,507.3
+"Niagara County, New York(6,10)",36063,507.2
+"Lowndes County, Alabama(6,10)",1085,507.2
+"Essex County, Massachusetts(6,10)",25009,507.1
+"Mingo County, West Virginia(6,10)",54059,507
+"Page County, Iowa(7,8)",19145,506.9
+"Stone County, Mississippi(6,10)",28131,506.8
+"Lamar County, Georgia(7,9)",13171,506.7
+"Clay County, Nebraska(6,10)",31035,506.7
+"Wayne County, New York(6,10)",36117,506.7
+"Effingham County, Illinois(6,10)",17049,506.6
+"Harrison County, West Virginia(6,10)",54033,506.6
+"Macomb County, Michigan(7,8)",26099,506.5
+"Fulton County, Illinois(6,10)",17057,506.5
+"Clark County, Missouri(6,10)",29045,506.4
+"Pike County, Mississippi(6,10)",28113,506.1
+"Greene County, Iowa(7,8)",19073,506.1
+"Union County, Illinois(6,10)",17181,506
+"Albany County, New York(6,10)",36001,505.9
+"Logan County, Illinois(6,10)",17107,505.7
+"Greene County, New York(6,10)",36039,505.7
+"Richland County, Illinois(6,10)",17159,505.5
+"Atlantic County, New Jersey(7,8)",34001,505.5
+"Madison County, New York(6,10)",36053,505.4
+"Mason County, Washington(7,8)",53045,505.4
+"Larue County, Kentucky(7,9)",21123,505.2
+"Shiawassee County, Michigan(6,10)",26155,505 #  
+"Barnstable County, Massachusetts(6,10)",25001,505
+"Petroleum County, Montana(6,10)",30069,504.9
+"Vermillion County, Indiana(6,10)",18165,504.9
+"Harlan County, Kentucky(7,9)",21095,504.8
+"Muscogee County, Georgia(7,9)",13215,504.8
+"Mercer County, New Jersey(7,8)",34021,504.7
+"Duval County, Florida(6,10)",12031,504.4
+"Catahoula Parish, Louisiana(7,9)",22025,504.4
+"Fulton County, New York(6,10)",36035,504.2
+"Caroline County, Virginia(6,10)",51033,503.8
+"De Soto Parish, Louisiana(7,9)",22031,503.8
+"Dallas County, Alabama(6,10)",1047,503.7
+"Carroll County, Kentucky(7,9)",21041,503.6
+"Tioga County, New York(6,10)",36107,503.6
+"Orange County, Virginia(6,10)",51137,503.5
+"Orange County, New York(6,10)",36071,503.5
+"Minnehaha County, South Dakota(6,10)",46099,503.1
+"Scioto County, Ohio(6,10)",39145,503
+"Grant County, Arkansas(6,10)",5053,502.9
+"White County, Illinois(6,10)",17193,502.9
+"Graves County, Kentucky(7,9)",21083,502.7
+"Strafford County, New Hampshire(6,10)",33017,502.6
+"Carroll County, Illinois(6,10)",17015,502.6
+"Randolph County, North Carolina(6,10)",37151,502.3
+"Hinds County, Mississippi(6,10)",28049,502.3
+"Barren County, Kentucky(7,9)",21009,502.2
+"Marion County, Ohio(6,10)",39101,502.1
+"Jefferson County, Arkansas(6,10)",5069,502.1
+"Rock County, Nebraska(6,10)",31149,502.1
+"Ritchie County, West Virginia(6,10)",54085,502
+"Rockland County, New York(6,10)",36087,502
+"Boone County, West Virginia(6,10)",54005,501.8
+"Dougherty County, Georgia(7,9)",13095,501.8
+"Casey County, Kentucky(7,9)",21045,501.8
+"Carteret County, North Carolina(6,10)",37031,501.8
+"Avoyelles Parish, Louisiana(7,9)",22009,501.8
+"Mercer County, Pennsylvania(6,10)",42085,501.6
+"Washington County, Maine(6,10)",23029,501.5
+"Oneida County, New York(6,10)",36065,501.5
+"Hitchcock County, Nebraska(6,10)",31087,501.5
+"Scott County, Iowa(7,8)",19163,501.4
+"Greene County, Pennsylvania(6,10)",42059,501.4
+"Calloway County, Kentucky(7,9)",21035,501.3
+"Allegheny County, Pennsylvania(6,10)",42003,501.2
+"Bay County, Florida(6,10)",12005,501.1
+"North Slope Borough, Alaska(6,10)",2185,501.1
+"Hanson County, South Dakota(6,10)",46061,501.1
+"Monroe County, Mississippi(6,10)",28095,501
+"Logan County, Nebraska(6,10)",31113,501
+"Harrison County, Kentucky(7,9)",21097,500.9
+"Ohio County, West Virginia(6,10)",54069,500.9
+"Guilford County, North Carolina(6,10)",37081,500.9
+"Cedar County, Iowa(7,8)",19031,500.8
+"Jefferson County, New York(6,10)",36045,500.8
+"Pike County, Missouri(6,10)",29163,500.7
+"Benton County, Missouri(6,10)",29015,500.6
+"Hawkins County, Tennessee(6,10)",47073,500.6
+"Jessamine County, Kentucky(7,9)",21113,500.6
+"Wilcox County, Alabama(6,10)",1131,500.5
+"Bucks County, Pennsylvania(6,10)",42017,500.5
+"Haralson County, Georgia(7,9)",13143,500.5
+"Sabine Parish, Louisiana(7,9)",22085,500.4
+"Trinity County, Texas(6,10)",48455,500.3
+"Brown County, Ohio(6,10)",39015,500.2
+"New Haven County, Connecticut(7,8)",9009,500.1
+"Saline County, Illinois(6,10)",17165,500.1
+"Luzerne County, Pennsylvania(6,10)",42079,500
+"Worcester County, Maryland(6,10)",24047,499.8
+"Canadian County, Oklahoma(6,10)",40017,499.8
+"St. Martin Parish, Louisiana(7,9)",22099,499.7
+"Jefferson Davis Parish, Louisiana(7,9)",22053,499.6
+"Cabarrus County, North Carolina(6,10)",37025,499.6
+"Anderson County, Tennessee(6,10)",47001,499.5
+"Alpine County, California(7,9)",6003,499.5
+"Pamlico County, North Carolina(6,10)",37137,499.4
+"Skagit County, Washington(7,8)",53057,499.3
+"Nome Census Area, Alaska(6,10)",2180,499.3
+"Angelina County, Texas(6,10)",48005,499.2
+"Muskegon County, Michigan(6,10)",26121,499 #  
+"Harding County, New Mexico(7,8)",35021,498.9
+"Monroe County, New York(6,10)",36055,498.9
+"Morgan County, Kentucky(7,9)",21175,498.8
+"St. Lawrence County, New York(6,10)",36089,498.7
+"Lincoln County, Wisconsin(6,10)",55069,498.7
+"Perry County, Illinois(6,10)",17145,498.3
+"Ashtabula County, Ohio(6,10)",39007,498.3
+"Elmore County, Idaho(6,10)",16039,498.1
+"Lee County, South Carolina(6,10)",45061,497.9
+"Linn County, Missouri(6,10)",29115,497.9
+"Dickson County, Tennessee(6,10)",47043,497.9
+"York County, Maine(6,10)",23031,497.7
+"Shoshone County, Idaho(6,10)",16079,497.6
+"Morrow County, Oregon(6,10)",41049,497.6
+"St. James Parish, Louisiana(7,9)",22093,497.4
+"Harrison County, Mississippi(6,10)",28047,497.4
+"Dukes County, Massachusetts(6,10)",25007,497.3
+"Baltimore City, Maryland(6,10)",24510,497.2
+"Randolph County, Indiana(6,10)",18135,497.2
+"Putnam County, West Virginia(6,10)",54079,497.2
+"Pendleton County, Kentucky(7,9)",21191,497.1
+"Chesterfield County, Virginia(6,10)",51041,497
+"Roscommon County, Michigan(6,10)",26143,496.9 #  
+"Garvin County, Oklahoma(6,10)",40049,496.9
+"Levy County, Florida(6,10)",12075,496.9
+"Warren County, Pennsylvania(6,10)",42123,496.8
+"Hanover County, Virginia(6,10)",51085,496.6
+"Fentress County, Tennessee(6,10)",47049,496.6
+"Robertson County, Tennessee(6,10)",47147,496.6
+"Marshall County, Kentucky(7,9)",21157,496.5
+"Hunterdon County, New Jersey(7,8)",34019,496.3
+"Bristol County, Massachusetts(6,10)",25005,496.2
+"Carbon County, Pennsylvania(6,10)",42025,496.1
+"Washington County, Mississippi(6,10)",28151,496.1
+"Grainger County, Tennessee(6,10)",47057,496
+"Fayette County, Kentucky(7,9)",21067,496
+"Orleans County, New York(6,10)",36073,495.9
+"Thurston County, Washington(7,8)",53067,495.9
+"Greene County, Alabama(6,10)",1063,495.8
+"Fulton County, Kentucky(7,9)",21075,495.8
+"Warren County, Iowa(7,8)",19181,495.8
+"Oakland County, Michigan(7,8)",26125,495.7
+"Fayette County, Pennsylvania(6,10)",42051,495.6
+"Stanly County, North Carolina(6,10)",37167,495.6
+"Macoupin County, Illinois(6,10)",17117,495.6
+"Webster County, Nebraska(6,10)",31181,495.5
+"Creek County, Oklahoma(6,10)",40037,495.5
+"Pearl River County, Mississippi(6,10)",28109,495.5
+"Clarion County, Pennsylvania(6,10)",42031,495.4
+"Jefferson County, Pennsylvania(6,10)",42065,495.4
+"Paulding County, Georgia(7,9)",13223,495.4
+"Yates County, New York(6,10)",36123,495.3
+"Hancock County, West Virginia(6,10)",54029,495
+"Lynchburg City, Virginia(6,10)",51680,495
+"Walker County, Alabama(6,10)",1127,495
+"Manistee County, Michigan(6,10)",26101,494.9 #  
+"Greenbrier County, West Virginia(6,10)",54025,494.9
+"Henry County, Illinois(6,10)",17073,494.7
+"Norfolk County, Massachusetts(6,10)",25021,494.7
+"Marlboro County, South Carolina(6,10)",45069,494.7
+"Livingston Parish, Louisiana(7,9)",22063,494.6
+"Bibb County, Alabama(6,10)",1007,494.6
+"St. Tammany Parish, Louisiana(7,9)",22103,494.5
+"Union County, Arkansas(6,10)",5139,494.4
+"Broome County, New York(6,10)",36007,494.4
+"Dawson County, Montana(6,10)",30021,494.3
+"Seneca County, New York(6,10)",36099,494.3
+"Milwaukee County, Wisconsin(6,10)",55079,494.3
+"Jasper County, Illinois(6,10)",17079,494.2
+"Cherokee County, South Carolina(6,10)",45021,494.2
+"Blount County, Tennessee(6,10)",47009,494.2
+"Owen County, Indiana(6,10)",18119,494.2
+"Russell County, Alabama(6,10)",1113,494.1
+"Floyd County, Iowa(7,8)",19067,494
+"Sevier County, Tennessee(6,10)",47155,493.9
+"Starke County, Indiana(6,10)",18149,493.9
+"Mercer County, West Virginia(6,10)",54055,493.8
+"Owsley County, Kentucky(7,9)",21189,493.7
+"Lawrence County, Pennsylvania(6,10)",42073,493.6
+"Tama County, Iowa(7,8)",19171,493.6
+"Colonial Heights City, Virginia(6,10)",51570,493.6
+"Franklin County, Georgia(7,9)",13119,493.5
+"Cerro Gordo County, Iowa(7,8)",19033,493.5
+"Bell County, Kentucky(7,9)",21013,493.5
+"Sharp County, Arkansas(6,10)",5135,493.4
+"Snohomish County, Washington(7,8)",53061,493.4
+"Sussex County, Delaware(6,10)",10005,493.3
+"Okmulgee County, Oklahoma(6,10)",40111,493.2
+"Yazoo County, Mississippi(6,10)",28163,493.2
+"Adams County, Ohio(6,10)",39001,493.1
+"Tift County, Georgia(7,9)",13277,493.1
+"Jackson County, Georgia(7,9)",13157,493.1
+"Sussex County, New Jersey(7,8)",34037,493.1
+"Terrebonne Parish, Louisiana(7,9)",22109,493.1
+"Burke County, North Carolina(6,10)",37023,493
+"Calhoun County, Illinois(6,10)",17013,493
+"Boyle County, Kentucky(7,9)",21021,492.9
+"Williamson County, Illinois(6,10)",17199,492.9
+"Pottawattamie County, Iowa(7,8)",19155,492.9
+"Grundy County, Iowa(7,8)",19075,492.9
+"Caddo Parish, Louisiana(7,9)",22017,492.8
+"Chester County, South Carolina(6,10)",45023,492.8
+"Carter County, Missouri(6,10)",29035,492.8
+"Roane County, Tennessee(6,10)",47145,492.7
+"Acadia Parish, Louisiana(7,9)",22001,492.7
+"Essex County, Vermont(6,10)",50009,492.7
+"Charles City County, Virginia(6,10)",51036,492.6
+"Woodruff County, Arkansas(6,10)",5147,492.6
+"Gallatin County, Illinois(6,10)",17059,492.5
+"Lewis County, Kentucky(7,9)",21135,492.5
+"Perry County, Tennessee(6,10)",47135,492.4
+"Perry County, Mississippi(6,10)",28111,492.4
+"Walworth County, Wisconsin(6,10)",55127,492.4
+"Douglas County, South Dakota(6,10)",46043,492.4
+"Hopkins County, Kentucky(7,9)",21107,492.4
+"Lonoke County, Arkansas(6,10)",5085,492.3
+"Washington County, Rhode Island(6,10)",44009,492.3
+"Greensville County, Virginia(6,10)",51081,492.2
+"Scott County, Missouri(6,10)",29201,492.2
+"Hancock County, Iowa(7,8)",19081,492.1
+"Bond County, Illinois(6,10)",17005,492.1
+"Metcalfe County, Kentucky(7,9)",21169,492.1
+"Clay County, Missouri(6,10)",29047,492
+"Effingham County, Georgia(7,9)",13103,492
+"Hampton City, Virginia(6,10)",51650,491.9
+"Hancock County, Maine(6,10)",23009,491.9
+"Campbell County, Tennessee(6,10)",47013,491.8
+"Kent County, Rhode Island(6,10)",44003,491.8
+"Jefferson County, Mississippi(6,10)",28063,491.8
+"Gloucester County, Virginia(6,10)",51073,491.8
+"Madison County, Illinois(6,10)",17119,491.7
+"Conecuh County, Alabama(6,10)",1035,491.6
+"Racine County, Wisconsin(6,10)",55101,491.6
+"Lamar County, Alabama(6,10)",1075,491.6
+"Kiowa County, Oklahoma(6,10)",40075,491.5
+"Martin County, North Carolina(6,10)",37117,491.5
+"King George County, Virginia(6,10)",51099,491.5
+"Josephine County, Oregon(6,10)",41033,491.2
+"Davie County, North Carolina(6,10)",37059,491.1
+"Powder River County, Montana(6,10)",30075,491
+"Baxter County, Arkansas(6,10)",5005,490.9
+"Bossier Parish, Louisiana(7,9)",22015,490.9
+"Whatcom County, Washington(7,8)",53073,490.9
+"Tuolumne County, California(7,9)",6109,490.8
+"Montour County, Pennsylvania(6,10)",42093,490.8
+"Bourbon County, Kentucky(7,9)",21017,490.8
+"Montgomery County, Pennsylvania(6,10)",42091,490.8
+"Forsyth County, North Carolina(6,10)",37067,490.7
+"Will County, Illinois(6,10)",17197,490.7
+"Allegany County, New York(6,10)",36003,490.7
+"Rosebud County, Montana(6,10)",30087,490.7
+"Forest County, Wisconsin(6,10)",55041,490.6
+"Richmond County, North Carolina(6,10)",37153,490.6
+"Edmonson County, Kentucky(7,9)",21061,490.6
+"Marshall County, Illinois(6,10)",17123,490.6
+"Marshall County, Tennessee(6,10)",47117,490.5
+"Monroe County, Iowa(7,8)",19135,490.5
+"Bryan County, Georgia(7,9)",13029,490.5
+"Kankakee County, Illinois(6,10)",17091,490.4
+"Vance County, North Carolina(6,10)",37181,490.4
+"New London County, Connecticut(7,8)",9011,490.4
+"Calcasieu Parish, Louisiana(7,9)",22019,490.4
+"Morgan County, Indiana(6,10)",18109,490.3
+"Cherokee County, Georgia(7,9)",13057,490.2
+"Polk County, Florida(6,10)",12105,490.2
+"Twiggs County, Georgia(7,9)",13289,490.1
+"Nassau County, Florida(6,10)",12089,490.1
+"Marion County, Florida(6,10)",12083,490.1
+"Breckinridge County, Kentucky(7,9)",21027,490
+"Tangipahoa Parish, Louisiana(7,9)",22105,489.9
+"Tooele County, Utah(7,8)",49045,489.9
+"Kitsap County, Washington(7,8)",53035,489.8
+"Appanoose County, Iowa(7,8)",19007,489.7
+"Athens County, Ohio(6,10)",39009,489.6
+"Jackson County, Indiana(6,10)",18071,489.6
+"Johnson County, Illinois(6,10)",17087,489.6
+"Hamblen County, Tennessee(6,10)",47063,489.4
+"Cheshire County, New Hampshire(6,10)",33005,489.4
+"Butte County, California(7,9)",6007,489.2
+"Emmet County, Michigan(6,10)",26047,489.1 #  
+"Cumberland County, Illinois(6,10)",17035,489
+"Fairfield County, Connecticut(7,8)",9001,489
+"Napa County, California(7,9)",6055,488.9
+"Bullock County, Alabama(6,10)",1011,488.8
+"Wood County, West Virginia(6,10)",54107,488.8
+"Middlesex County, Connecticut(7,8)",9007,488.8
+"Black Hawk County, Iowa(7,8)",19013,488.7
+"York County, Pennsylvania(6,10)",42133,488.7
+"Morgan County, Tennessee(6,10)",47129,488.7
+"Calhoun County, Georgia(7,9)",13037,488.6
+"Davidson County, North Carolina(6,10)",37057,488.6
+"Suffolk County, Massachusetts(6,10)",25025,488.6
+"Morris County, New Jersey(7,8)",34027,488.5
+"Clinton County, Ohio(6,10)",39027,488.5
+"St. Louis County, Missouri(6,10)",29189,488.5
+"Baker County, Georgia(7,9)",13007,488.4
+"Glascock County, Georgia(7)",13125,488.4
+"St. Clair County, Illinois(6,10)",17163,488.4
+"Franklin County, Iowa(7,8)",19069,488.4
+"Greene County, Illinois(6,10)",17061,488.4
+"Cambria County, Pennsylvania(6,10)",42021,488.3
+"Madison County, Missouri(6,10)",29123,488.3
+"Putnam County, Florida(6,10)",12107,488.3
+"Dubuque County, Iowa(7,8)",19061,488.1
+"Montgomery County, Illinois(6,10)",17135,488.1
+"St. Clair County, Michigan(6,10)",26147,488 #  
+"Crawford County, Missouri(6,10)",29055,488
+"Geneva County, Alabama(6,10)",1061,488
+"Bennington County, Vermont(6,10)",50003,488
+"Hardin County, Iowa(7,8)",19083,487.9
+"Peach County, Georgia(7,9)",13225,487.9
+"Morton County, North Dakota(6,10)",38059,487.9
+"Scotland County, North Carolina(6,10)",37165,487.8
+"Venango County, Pennsylvania(6,10)",42121,487.7
+"Monroe County, Illinois(6,10)",17133,487.6
+"Grant County, Indiana(6,10)",18053,487.6
+"Dodge County, Nebraska(6,10)",31053,487.5
+"Lawrence County, Alabama(6,10)",1079,487.4
+"Tioga County, Pennsylvania(6,10)",42117,487.3
+"Lafayette Parish, Louisiana(7,9)",22055,487.3
+"Fremont County, Iowa(7,8)",19071,487.2
+"Itawamba County, Mississippi(6,10)",28057,487.2
+"East Baton Rouge Parish, Louisiana(7,9)",22033,487.1
+"Floyd County, Georgia(7,9)",13115,487.1
+"Caswell County, North Carolina(6,10)",37033,487.1
+"Prince of Wales-Outer Ketchikan, Alaska(6,10)",2201,487.1
+"Knox County, Indiana(6,10)",18083,487.1
+"Kenton County, Kentucky(7,9)",21117,487
+"Sussex County, Virginia(6,10)",51183,486.9
+"Goochland County, Virginia(6,10)",51075,486.9
+"Jackson County, Mississippi(6,10)",28059,486.8
+"Hartford County, Connecticut(7,8)",9003,486.8
+"Turner County, Georgia(7,9)",13287,486.8
+"Westchester County, New York(6,10)",36119,486.7
+"Dutchess County, New York(6,10)",36027,486.7
+"Menard County, Illinois(6,10)",17129,486.6
+"Shelby County, Kentucky(7,9)",21211,486.6
+"Mellette County, South Dakota(6,10)",46095,486.5
+"Morgan County, Illinois(6,10)",17137,486.5
+"Smith County, Tennessee(6,10)",47159,486.5
+"Webster County, Iowa(7,8)",19187,486.3
+"Bureau County, Illinois(6,10)",17011,486.3
+"Blackford County, Indiana(6,10)",18009,486.2
+"Chester County, Pennsylvania(6,10)",42029,486.2
+"Mills County, Iowa(7,8)",19129,486
+"Clinton County, Pennsylvania(6,10)",42035,486
+"Warren County, New Jersey(7,8)",34041,485.9
+"New Castle County, Delaware(6,10)",10003,485.9
+"Iroquois County, Illinois(6,10)",17075,485.8
+"Harford County, Maryland(6,10)",24025,485.5
+"DeKalb County, Illinois(6,10)",17037,485.5
+"Schuylkill County, Pennsylvania(6,10)",42107,485.5
+"Adams County, Nebraska(6,10)",31001,485.3
+"Webster Parish, Louisiana(7,9)",22119,485.3
+"Mifflin County, Pennsylvania(6,10)",42087,485.2
+"Deschutes County, Oregon(6,10)",41017,485.2
+"Woodford County, Kentucky(7,9)",21239,485.2
+"St. Louis City, Missouri(6,10)",29510,485.1
+"Hill County, Montana(6,10)",30041,485.1
+"Mountrail County, North Dakota(6,10)",38061,485.1
+"Burt County, Nebraska(6,10)",31021,485.1
+"Cuyahoga County, Ohio(6,10)",39035,485
+"Lowndes County, Georgia(7,9)",13185,485
+"Custer County, Montana(6,10)",30017,485
+"Knox County, Maine(6,10)",23013,484.9
+"Henry County, Iowa(7,8)",19087,484.9
+"Rapides Parish, Louisiana(7,9)",22079,484.9
+"Rusk County, Wisconsin(6,10)",55107,484.9
+"Auglaize County, Ohio(6,10)",39011,484.8
+"Shelby County, Indiana(6,10)",18145,484.7
+"Lapeer County, Michigan(6,10)",26087,484.6 #  
+"Georgetown County, South Carolina(6,10)",45043,484.6
+"Tipton County, Tennessee(6,10)",47167,484.6
+"Perry County, Arkansas(6,10)",5105,484.6
+"Ontario County, New York(6,10)",36069,484.6
+"Blaine County, Montana(6,10)",30005,484.6
+"Ascension Parish, Louisiana(7,9)",22005,484.5
+"Knox County, Tennessee(6,10)",47093,484.4
+"Bradford County, Pennsylvania(6,10)",42015,484.4
+"Montmorency County, Michigan(6,10)",26119,484.4 #  
+"Lauderdale County, Tennessee(6,10)",47097,484.4
+"Cecil County, Maryland(6,10)",24015,484.3
+"Orange County, Texas(6,10)",48361,484.3
+"Hot Springs County, Wyoming(6,10)",56017,484.2
+"Jay County, Indiana(6,10)",18075,484.2
+"Ozaukee County, Wisconsin(6,10)",55089,484.1
+"Lee County, Illinois(6,10)",17103,484.1
+"Seminole County, Oklahoma(6,10)",40133,484.1
+"McCracken County, Kentucky(7,9)",21145,484.1
+"Waldo County, Maine(6,10)",23027,484
+"Lehigh County, Pennsylvania(6,10)",42077,484
+"Jefferson County, Tennessee(6,10)",47089,484
+"Henry County, Alabama(6,10)",1067,484
+"Clay County, Indiana(6,10)",18021,483.9
+"Winnebago County, Wisconsin(6,10)",55139,483.9
+"Oconto County, Wisconsin(6,10)",55083,483.9
+"Warren County, Kentucky(7,9)",21227,483.8
+"Sawyer County, Wisconsin(6,10)",55113,483.8
+"Lake County, Ohio(6,10)",39085,483.8
+"Troup County, Georgia(7,9)",13285,483.7
+"Rankin County, Mississippi(6,10)",28121,483.7
+"McDowell County, North Carolina(6,10)",37111,483.7
+"District of Columbia(6,10)",11001,483.7
+"Moore County, North Carolina(6,10)",37125,483.6
+"Boone County, Kentucky(7,9)",21015,483.6
+"Hancock County, Tennessee(6,10)",47067,483.5
+"Henry County, Missouri(6,10)",29083,483.4
+"Pickett County, Tennessee(6,10)",47137,483.4
+"Muskogee County, Oklahoma(6,10)",40101,483.4
+"Charlevoix County, Michigan(6,10)",26029,483.4 #  
+"Cabell County, West Virginia(6,10)",54011,483.4
+"Monona County, Iowa(7,8)",19133,483.2
+"Cook County, Georgia(7,9)",13075,483.1
+"Clinton County, Iowa(7,8)",19045,483.1
+"Dorchester County, South Carolina(6,10)",45035,483.1
+"Laurens County, South Carolina(6,10)",45059,482.9
+"Garfield County, Nebraska(6,10)",31071,482.9
+"Delaware County, Indiana(6,10)",18035,482.9
+"Monroe County, Tennessee(6,10)",47123,482.9
+"Coosa County, Alabama(6,10)",1037,482.9
+"Wayne County, Georgia(7,9)",13305,482.8
+"Lackawanna County, Pennsylvania(6,10)",42069,482.8
+"Schenectady County, New York(6,10)",36093,482.8
+"Grant Parish, Louisiana(7,9)",22043,482.7
+"Furnas County, Nebraska(6,10)",31065,482.7
+"Buchanan County, Iowa(7,8)",19019,482.7
+"Lyon County, Kentucky(7,9)",21143,482.7
+"Audrain County, Missouri(6,10)",29007,482.6
+"Stark County, Illinois(6,10)",17175,482.6
+"Washington County, Pennsylvania(6,10)",42125,482.5
+"Prairie County, Montana(6,10)",30079,482.4
+"Hall County, Georgia(7,9)",13139,482.4
+"Elmore County, Alabama(6,10)",1051,482.4
+"Chippewa County, Wisconsin(6,10)",55017,482.4
+"Montgomery County, Iowa(7,8)",19137,482.3
+"Gaston County, North Carolina(6,10)",37071,482.3
+"Hillsborough County, New Hampshire(6,10)",33011,482.2
+"Mahaska County, Iowa(7,8)",19123,482.1
+"Tattnall County, Georgia(7,9)",13267,482
+"Vigo County, Indiana(6,10)",18167,482
+"Mercer County, North Dakota(6,10)",38057,482
+"Cumberland County, Tennessee(6,10)",47035,481.9
+"Crawford County, Pennsylvania(6,10)",42039,481.8
+"Carroll County, New Hampshire(6,10)",33003,481.8
+"Sheboygan County, Wisconsin(6,10)",55117,481.7
+"Wilkes County, Georgia(7,9)",13317,481.7
+"Brooke County, West Virginia(6,10)",54009,481.6
+"Dorchester County, Maryland(6,10)",24019,481.6
+"Cleveland County, North Carolina(6,10)",37045,481.6
+"Cooper County, Missouri(6,10)",29053,481.5
+"Hettinger County, North Dakota(6,10)",38041,481.5
+"Polk County, Iowa(7,8)",19153,481.1
+"Sioux County, North Dakota(6,10)",38085,481.1
+"Surry County, North Carolina(6,10)",37171,481.1
+"Carroll County, Georgia(7,9)",13045,481
+"Gasconade County, Missouri(6,10)",29073,481
+"Washington County, Idaho(6,10)",16087,481
+"Litchfield County, Connecticut(7,8)",9005,480.9
+"Jefferson County, Washington(7,8)",53031,480.9
+"Fayette County, Illinois(6,10)",17051,480.9
+"Ouachita Parish, Louisiana(7,9)",22073,480.9
+"Bibb County, Georgia(7,9)",13021,480.8
+"Forsyth County, Georgia(7,9)",13117,480.8
+"Herkimer County, New York(6,10)",36043,480.7
+"Muscatine County, Iowa(7,8)",19139,480.5
+"Poinsett County, Arkansas(6,10)",5111,480.5
+"Norfolk City, Virginia(6,10)",51710,480.5
+"Concordia Parish, Louisiana(7,9)",22029,480.4
+"Wayne County, Kentucky(7,9)",21231,480.4
+"Hardeman County, Tennessee(6,10)",47069,480.3
+"Clallam County, Washington(7,8)",53009,480.2
+"Wilbarger County, Texas(6,10)",48487,480.2
+"Upson County, Georgia(7,9)",13293,480.2
+"Polk County, Tennessee(6,10)",47139,480.2
+"Rush County, Indiana(6,10)",18139,480.1
+"Kossuth County, Iowa(7,8)",19109,480
+"Clarendon County, South Carolina(6,10)",45027,479.9
+"Erie County, Ohio(6,10)",39043,479.9
+"Tuscaloosa County, Alabama(6,10)",1125,479.9
+"Bedford County, Pennsylvania(6,10)",42009,479.9
+"Wright County, Missouri(6,10)",29229,479.9
+"Berrien County, Michigan(6,10)",26021,479.8 #  
+"Tompkins County, New York(6,10)",36109,479.8
+"Ward County, North Dakota(6,10)",38101,479.7
+"Orange County, Vermont(6,10)",50017,479.7
+"Cumberland County, Maine(6,10)",23005,479.6
+"Franklin Parish, Louisiana(7,9)",22041,479.6
+"Washington County, Iowa(7,8)",19183,479.6
+"Jennings County, Indiana(6,10)",18079,479.5
+"Clermont County, Ohio(6,10)",39025,479.5
+"Accomack County, Virginia(6,10)",51001,479.4
+"Massac County, Illinois(6,10)",17127,479.3
+"Henry County, Tennessee(6,10)",47079,479.3
+"Barnes County, North Dakota(6,10)",38003,479.1
+"Brown County, Wisconsin(6,10)",55009,479.1
+"Perry County, Pennsylvania(6,10)",42099,479.1
+"Union County, Indiana(6,10)",18161,479
+"Shasta County, California(7,9)",6089,478.8
+"Lake County, Indiana(6,10)",18089,478.8
+"Gordon County, Georgia(7,9)",13129,478.8
+"Otsego County, New York(6,10)",36077,478.7
+"Major County, Oklahoma(6,10)",40093,478.7
+"Erie County, Pennsylvania(6,10)",42049,478.6
+"Panola County, Mississippi(6,10)",28107,478.6
+"Licking County, Ohio(6,10)",39089,478.5
+"Trumbull County, Ohio(6,10)",39155,478.5
+"Blair County, Pennsylvania(6,10)",42013,478.4
+"Kennebec County, Maine(6,10)",23011,478.4
+"Menominee County, Wisconsin(6,10)",55078,478.4
+"Lyon County, Iowa(7,8)",19119,478.3
+"Androscoggin County, Maine(6,10)",23001,478.2
+"Rock Island County, Illinois(6,10)",17161,478.1
+"Marathon County, Wisconsin(6,10)",55073,478.1
+"Vernon Parish, Louisiana(7,9)",22115,478.1
+"Piscataquis County, Maine(6,10)",23021,478.1
+"Lincoln County, Mississippi(6,10)",28085,478.1
+"Cass County, Nebraska(6,10)",31025,478
+"Audubon County, Iowa(7,8)",19009,477.8
+"Person County, North Carolina(6,10)",37145,477.8
+"Clay County, Iowa(7,8)",19041,477.7
+"Wayne County, Indiana(6,10)",18177,477.6
+"Harrison County, Iowa(7,8)",19085,477.6
+"Oxford County, Maine(6,10)",23017,477.6
+"Henry County, Georgia(7,9)",13151,477.6
+"Barbour County, Alabama(6,10)",1005,477.5
+"Onslow County, North Carolina(6,10)",37133,477.5
+"Clay County, Alabama(6,10)",1027,477.4
+"Linn County, Oregon(6,10)",41043,477.4
+"Ulster County, New York(6,10)",36111,477.4
+"Callaway County, Missouri(6,10)",29027,477.4
+"Houston County, Alabama(6,10)",1069,477.3
+"Ketchikan Gateway Borough, Alaska(6,10)",2130,477.3
+"Iredell County, North Carolina(6,10)",37097,477.1
+"Henderson County, Kentucky(7,9)",21101,477.1
+"Fond du Lac County, Wisconsin(6,10)",55039,477
+"Habersham County, Georgia(7,9)",13137,477
+"Glacier County, Montana(6,10)",30035,477
+"Davison County, South Dakota(6,10)",46035,476.9
+"Mississippi County, Missouri(6,10)",29133,476.9
+"Hunt County, Texas(6,10)",48231,476.8
+"Porter County, Indiana(6,10)",18127,476.7
+"Jasper County, Georgia(7)",13159,476.7
+"Douglas County, Nebraska(6,10)",31055,476.6
+"Grant County, Nebraska(6,10)",31075,476.6
+"Stephens County, Georgia(7,9)",13257,476.6
+"Oconee County, South Carolina(6,10)",45073,476.6
+"Westmoreland County, Pennsylvania(6,10)",42129,476.6
+"Shelby County, Missouri(6,10)",29205,476.5
+"Crawford County, Ohio(6,10)",39033,476.5
+"Fulton County, Georgia(7,8)",13121,476.5
+"Bolivar County, Mississippi(6,10)",28011,476.3
+"Columbia County, Washington(6,10)",53013,476.2
+"Caledonia County, Vermont(6,10)",50005,476.2
+"Beaver County, Pennsylvania(6,10)",42007,476.1
+"Columbia County, Wisconsin(6,10)",55021,476.1
+"Early County, Georgia(7,9)",13099,476.1
+"Newton County, Georgia(7,9)",13217,476
+"LaPorte County, Indiana(6,10)",18091,476
+"Rutland County, Vermont(6,10)",50021,476
+"Calhoun County, Alabama(6,10)",1015,475.9
+"Screven County, Georgia(7,9)",13251,475.8
+"Yellowstone County, Montana(6,10)",30111,475.8
+"Clinton County, Illinois(6,10)",17027,475.8
+"Mobile County, Alabama(6,10)",1097,475.8
+"Jackson County, West Virginia(6,10)",54035,475.8
+"Leake County, Mississippi(6,10)",28079,475.7
+"Heard County, Georgia(7,9)",13149,475.7
+"Buncombe County, North Carolina(6,10)",37021,475.7
+"Sullivan County, New Hampshire(6,10)",33019,475.7
+"Pope County, Arkansas(6,10)",5115,475.7
+"Scott County, Indiana(6,10)",18143,475.7
+"Gladwin County, Michigan(6,10)",26051,475.7 #  
+"Louisa County, Iowa(7,8)",19115,475.6
+"Toole County, Montana(6,10)",30101,475.5
+"Taylor County, Iowa(7,8)",19173,475.5
+"Anderson County, South Carolina(6,10)",45007,475.4
+"Washington County, Ohio(6,10)",39167,475.4
+"Richmond City, Virginia(6,10)",51760,475.4
+"Saginaw County, Michigan(6,10)",26145,475.4 #  
+"Baker County, Florida(6,10)",12003,475.3
+"Pontotoc County, Oklahoma(6,10)",40123,475.3
+"Traill County, North Dakota(6,10)",38097,475.3
+"Montcalm County, Michigan(6,10)",26117,475.3 #  
+"Franklin County, Missouri(6,10)",29071,475.2
+"Orange County, Indiana(6,10)",18117,475.2
+"Kootenai County, Idaho(6,10)",16055,475.2
+"Carroll County, Tennessee(6,10)",47017,475.2
+"Bell County, Texas(6,10)",48027,475.2
+"Whiteside County, Illinois(6,10)",17195,475.2
+"Yukon-Koyukuk Census Area, Alaska(6,10)",2290,475.1
+"Hampshire County, West Virginia(6,10)",54027,475.1
+"Douglas County, Illinois(6,10)",17041,475.1
+"Switzerland County, Indiana(6,10)",18155,475
+"Marin County, California(7,8)",6041,475
+"Autauga County, Alabama(6,10)",1001,475
+"Sumter County, South Carolina(6,10)",45085,474.9
+"Linn County, Iowa(7,8)",19113,474.8
+"Waukesha County, Wisconsin(6,10)",55133,474.7
+"Lake County, Florida(6,10)",12069,474.6
+"Fayette County, Alabama(6,10)",1057,474.6
+"Tate County, Mississippi(6,10)",28137,474.6
+"Hillsborough County, Florida(6,10)",12057,474.5
+"Winston County, Mississippi(6,10)",28159,474.4
+"McHenry County, Illinois(6,10)",17111,474.4
+"Sullivan County, New York(6,10)",36105,474.3
+"Snyder County, Pennsylvania(6,10)",42109,474.1
+"Jasper County, Indiana(6,10)",18073,474.1
+"Calumet County, Wisconsin(6,10)",55015,474.1
+"Rolette County, North Dakota(6,10)",38079,474.1
+"Tulsa County, Oklahoma(6,10)",40143,474
+"Floyd County, Indiana(6,10)",18043,474
+"Kershaw County, South Carolina(6,10)",45055,474
+"St. Mary Parish, Louisiana(7,9)",22101,474
+"Jefferson Parish, Louisiana(7,9)",22051,473.9
+"Johnson County, Iowa(7,8)",19103,473.8
+"Horry County, South Carolina(6,10)",45051,473.8
+"Montgomery County, Mississippi(6,10)",28097,473.8
+"Harrison County, Missouri(6,10)",29081,473.6
+"Claiborne Parish, Louisiana(7,9)",22027,473.5
+"Clearfield County, Pennsylvania(6,10)",42033,473.5
+"Jackson County, Michigan(6,10)",26075,473.5 #  
+"Madison County, Nebraska(6,10)",31119,473.4
+"Pasquotank County, North Carolina(6,10)",37139,473.4
+"Guernsey County, Ohio(6,10)",39059,473.4
+"Day County, South Dakota(6,10)",46037,473.4
+"Galax City, Virginia(6,10)",51640,473.4
+"Providence County, Rhode Island(6,10)",44007,473.3
+"Kent County, Michigan(6,10)",26081,473.3 #  
+"Dawson County, Georgia(7,9)",13085,473.3
+"White County, Arkansas(6,10)",5145,473.3
+"Tehama County, California(7,9)",6103,473.2
+"Bristol County, Rhode Island(6,10)",44001,473.2
+"Portsmouth City, Virginia(6,10)",51740,473.2
+"Sweet Grass County, Montana(6,10)",30097,473.1
+"Franklin County, Ohio(6,10)",39049,473.1
+"Middlesex County, Massachusetts(6,10)",25017,473.1
+"Bowman County, North Dakota(6,10)",38011,472.9
+"Walton County, Georgia(7,9)",13297,472.9
+"Ray County, Missouri(6,10)",29177,472.9
+"Etowah County, Alabama(6,10)",1055,472.9
+"Sullivan County, Tennessee(6,10)",47163,472.8
+"Benzie County, Michigan(6,10)",26019,472.8 #  
+"Morgan County, Alabama(6,10)",1103,472.8
+"Coffee County, Tennessee(6,10)",47031,472.8
+"Aroostook County, Maine(6,10)",23003,472.8
+"Antelope County, Nebraska(6,10)",31003,472.7
+"Walker County, Texas(6,10)",48471,472.7
+"Dallas County, Arkansas(6,10)",5039,472.7
+"Blaine County, Oklahoma(6,10)",40011,472.6
+"Halifax County, North Carolina(6,10)",37083,472.6
+"Carroll County, Ohio(6,10)",39019,472.5
+"Randolph County, Illinois(6,10)",17157,472.5
+"Berks County, Pennsylvania(6,10)",42011,472.4
+"Solano County, California(7,9)",6095,472.3
+"Pulaski County, Arkansas(6,10)",5119,472.3
+"Baltimore County, Maryland(6,10)",24005,472.3
+"Bland County, Virginia(6,10)",51021,472.2
+"Columbia County, New York(6,10)",36021,472.2
+"Davidson County, Tennessee(6,10)",47037,472.2
+"Waupaca County, Wisconsin(6,10)",55135,472.2
+"Washburn County, Wisconsin(6,10)",55129,472.2
+"Franklin County, North Carolina(6,10)",37069,472.1
+"Jones County, Georgia(7,9)",13169,472.1
+"McLean County, Illinois(6,10)",17113,472.1
+"Pike County, Georgia(7,9)",13231,472
+"Suffolk City, Virginia(6,10)",51800,472
+"Muhlenberg County, Kentucky(7,9)",21177,472
+"Carter County, Oklahoma(6,10)",40019,472
+"Johnson County, Missouri(6,10)",29101,472
+"Marquette County, Wisconsin(6,10)",55077,471.9
+"Union County, Georgia(7,9)",13291,471.7
+"Lebanon County, Pennsylvania(6,10)",42075,471.7
+"Wayne County, Illinois(6,10)",17191,471.7
+"Northumberland County, Pennsylvania(6,10)",42097,471.7
+"Kendall County, Illinois(6,10)",17093,471.5
+"Russell County, Kentucky(7,9)",21207,471.5
+"Tolland County, Connecticut(7,8)",9013,471.5
+"Morgan County, Georgia(7)",13211,471.5
+"Fayette County, Tennessee(6,10)",47047,471.4
+"Twin Falls County, Idaho(6,10)",16083,471.4
+"Jackson County, Illinois(6,10)",17077,471.4
+"Clay County, Florida(6,10)",12019,471.3
+"Treasure County, Montana(6,10)",30103,471.2
+"Preble County, Ohio(6,10)",39135,471.1
+"Clark County, Ohio(6,10)",39023,471.1
+"Ben Hill County, Georgia(7,9)",13017,471.1
+"Craig County, Oklahoma(6,10)",40035,471.1
+"Chattooga County, Georgia(7,9)",13055,471.1
+"Marion County, Iowa(7,8)",19125,471
+"Stutsman County, North Dakota(6,10)",38093,471
+"Somerset County, New Jersey(7,8)",34035,471
+"Hamilton County, Tennessee(6,10)",47065,470.9
+"St. Charles Parish, Louisiana(7,9)",22089,470.8
+"Marion County, Oregon(6,10)",41047,470.8
+"Cook County, Illinois(6,10)",17031,470.8
+"Cayuga County, New York(6,10)",36011,470.8
+"Cass County, Iowa(7,8)",19029,470.8
+"Adams County, Pennsylvania(6,10)",42001,470.7
+"Pasco County, Florida(6,10)",12101,470.7
+"Sumner County, Tennessee(6,10)",47165,470.6
+"Jefferson County, Oklahoma(6,10)",40067,470.4
+"Livingston County, Missouri(6,10)",29117,470.4
+"Kenosha County, Wisconsin(6,10)",55059,470.4
+"Burke County, Georgia(7,9)",13033,470.4
+"Pickens County, South Carolina(6,10)",45077,470.4
+"Cobb County, Georgia(7,8)",13067,470.3
+"Worcester County, Massachusetts(6,10)",25027,470.3
+"Lewis County, New York(6,10)",36049,470.1
+"Overton County, Tennessee(6,10)",47133,470.1
+"Adams County, Mississippi(6,10)",28001,470
+"Worth County, Iowa(7,8)",19195,470
+"Polk County, Oregon(6,10)",41053,469.8
+"Amador County, California(7,9)",6005,469.8
+"Woodbury County, Iowa(7,8)",19193,469.7
+"Adair County, Kentucky(7,9)",21001,469.7
+"Greene County, Tennessee(6,10)",47059,469.7
+"Kalkaska County, Michigan(6,10)",26079,469.6 #  
+"Buchanan County, Missouri(6,10)",29021,469.6
+"Raleigh County, West Virginia(6,10)",54081,469.6
+"Randolph County, Missouri(6,10)",29175,469.5
+"Lamar County, Texas(6,10)",48277,469.5
+"Giles County, Tennessee(6,10)",47055,469.4
+"Hall County, Nebraska(6,10)",31079,469.4
+"Woodford County, Illinois(6,10)",17203,469.4
+"Cannon County, Tennessee(6,10)",47015,469.4
+"Pierce County, Georgia(7,9)",13229,469.3
+"Matanuska-Susitna Borough, Alaska(6,10)",2170,469.3
+"Cocke County, Tennessee(6,10)",47029,469.2
+"Christian County, Kentucky(7,9)",21047,469.2
+"Warren County, Mississippi(6,10)",28149,469.1
+"Alamance County, North Carolina(6,10)",37001,469.1
+"Fulton County, Indiana(6,10)",18049,469.1
+"Newport County, Rhode Island(6,10)",44005,469
+"Ada County, Idaho(6,10)",16001,469
+"White County, Georgia(7,9)",13311,469
+"Brooks County, Georgia(7,9)",13027,469
+"Oldham County, Texas(6,10)",48359,469
+"Knox County, Illinois(6,10)",17095,469
+"Crawford County, Georgia(7,9)",13079,468.9
+"Benewah County, Idaho(6,10)",16009,468.9
+"Lincoln County, Missouri(6,10)",29113,468.8
+"Ford County, Illinois(6,10)",17053,468.7
+"Bollinger County, Missouri(6,10)",29017,468.7
+"Madison County, Indiana(6,10)",18095,468.7
+"Hancock County, Illinois(6,10)",17067,468.6
+"Franklin County, Pennsylvania(6,10)",42055,468.5
+"Greenwood County, South Carolina(6,10)",45047,468.5
+"Henry County, Indiana(6,10)",18065,468.4
+"Van Buren County, Tennessee(6,10)",47175,468.4
+"Tyler County, West Virginia(6,10)",54095,468.3
+"Harnett County, North Carolina(6,10)",37085,468.2
+"Pontotoc County, Mississippi(6,10)",28115,468.2
+"Schoharie County, New York(6,10)",36095,468.2
+"Anne Arundel County, Maryland(6,10)",24003,468.1
+"Arkansas County, Arkansas(6,10)",5001,468.1
+"Bergen County, New Jersey(7,8)",34003,468.1
+"Lyman County, South Dakota(6,10)",46085,468.1
+"Jasper County, Mississippi(6,10)",28061,468.1
+"Franklin City, Virginia(6,10)",51620,468
+"Calhoun County, South Carolina(6,10)",45017,468
+"Pike County, Ohio(6,10)",39131,468
+"Henderson County, North Carolina(6,10)",37089,468
+"Plymouth County, Iowa(7,8)",19149,467.9
+"Toombs County, Georgia(7,9)",13279,467.9
+"Adams County, Wisconsin(6,10)",55001,467.9
+"Fayette County, Iowa(7,8)",19065,467.8
+"Chickasaw County, Iowa(7,8)",19037,467.7
+"McDuffie County, Georgia(7,9)",13189,467.6
+"Caldwell Parish, Louisiana(7,9)",22021,467.6
+"Franklin County, Mississippi(6,10)",28037,467.5
+"Washington County, Wisconsin(6,10)",55131,467.5
+"LaFourche Parish, Louisiana(7,9)",22057,467.5
+"Loudon County, Tennessee(6,10)",47105,467.4
+"Adams County, Illinois(6,10)",17001,467.4
+"Arenac County, Michigan(6,10)",26011,467.3 #  
+"Washington County, Vermont(6,10)",50023,467.3
+"Pettis County, Missouri(6,10)",29159,467.3
+"Scurry County, Texas(6,10)",48415,467.2
+"Steuben County, New York(6,10)",36101,467.1
+"Hamilton County, Ohio(6,10)",39061,467.1
+"DeBaca County, New Mexico(7,8)",35011,467.1
+"Murray County, Oklahoma(6,10)",40099,467.1
+"Henderson County, Tennessee(6,10)",47077,467.1
+"Clark County, Illinois(6,10)",17023,467
+"Marshall County, Iowa(7,8)",19127,467
+"Keokuk County, Iowa(7,8)",19107,466.9
+"Nez Perce County, Idaho(6,10)",16069,466.9
+"Clark County, Indiana(6,10)",18019,466.8
+"Yamhill County, Oregon(6,10)",41071,466.8
+"Middlesex County, New Jersey(7,8)",34023,466.7
+"Rabun County, Georgia(7,9)",13241,466.6
+"Palo Pinto County, Texas(6,10)",48363,466.6
+"Winnebago County, Illinois(6,10)",17201,466.6
+"Jefferson County, Alabama(6,10)",1073,466.5
+"Harper County, Oklahoma(6,10)",40059,466.5
+"Clarke County, Mississippi(6,10)",28023,466.5
+"Crawford County, Wisconsin(6,10)",55023,466.4
+"Franklin County, New York(6,10)",36033,466.4
+"Marinette County, Wisconsin(6,10)",55075,466.3
+"Huntington County, Indiana(6,10)",18069,466.3
+"Jasper County, Iowa(7,8)",19099,466.2
+"Union County, South Carolina(6,10)",45087,466.2
+"Lawrence County, Indiana(6,10)",18093,466.2
+"Muskingum County, Ohio(6,10)",39119,466.1
+"Camp County, Texas(6,10)",48063,466
+"Orleans Parish, Louisiana(7,9)",22071,466
+"Randolph County, Alabama(6,10)",1111,465.9
+"Lorain County, Ohio(6,10)",39093,465.9
+"Talladega County, Alabama(6,10)",1121,465.9
+"Clatsop County, Oregon(6,10)",41007,465.6
+"McDonough County, Illinois(6,10)",17109,465.6
+"McKean County, Pennsylvania(6,10)",42083,465.6
+"Oconee County, Georgia(7,9)",13219,465.6
+"Noble County, Oklahoma(6,10)",40103,465.5
+"Kingfisher County, Oklahoma(6,10)",40073,465.5
+"Howard County, Iowa(7,8)",19089,465.5
+"Sequatchie County, Tennessee(6,10)",47153,465.4
+"Franklin County, Tennessee(6,10)",47051,465.4
+"Putnam County, Illinois(6,10)",17155,465.2
+"St. Charles County, Missouri(6,10)",29183,465.2
+"Caroline County, Maryland(6,10)",24011,465.1
+"Outagamie County, Wisconsin(6,10)",55087,464.9
+"La Salle Parish, Louisiana(7,9)",22059,464.8
+"Brevard County, Florida(6,10)",12009,464.8
+"Taliaferro County, Georgia(7)",13265,464.8
+"Ashe County, North Carolina(6,10)",37009,464.7
+"DeKalb County, Indiana(6,10)",18033,464.7
+"Charles Mix County, South Dakota(6,10)",46023,464.7
+"Jones County, North Carolina(6,10)",37103,464.6
+"Jefferson Davis County, Mississippi(6,10)",28065,464.5
+"San Jacinto County, Texas(6,10)",48407,464.5
+"Garland County, Arkansas(6,10)",5051,464.4
+"Berkshire County, Massachusetts(6,10)",25003,464.3
+"Clare County, Michigan(6,10)",26035,464.3 #  
+"King County, Washington(7,8)",53033,464.2
+"Kalamazoo County, Michigan(6,10)",26077,464.2 #  
+"Coles County, Illinois(6,10)",17029,464.1
+"Greene County, Georgia(7)",13133,464
+"Union Parish, Louisiana(7,9)",22111,463.9
+"Wilkinson County, Georgia(7,9)",13319,463.9
+"Okfuskee County, Oklahoma(6,10)",40107,463.9
+"New York County, New York(6,10)",36061,463.9
+"Washtenaw County, Michigan(6,10)",26161,463.9 #  
+"Chittenden County, Vermont(6,10)",50007,463.7
+"Beauregard Parish, Louisiana(7,9)",22011,463.7
+"Pulaski County, Indiana(6,10)",18131,463.7
+"Huron County, Ohio(6,10)",39077,463.7
+"Essex County, New York(6,10)",36031,463.7
+"Jackson County, Alabama(6,10)",1071,463.6
+"Washington County, Georgia(7)",13303,463.6
+"Sunflower County, Mississippi(6,10)",28133,463.6
+"Pender County, North Carolina(6,10)",37141,463.5
+"Van Buren County, Iowa(7,8)",19177,463.5
+"Sarpy County, Nebraska(6,10)",31153,463.5
+"Sonoma County, California(7,9)",6097,463.4
+"Brunswick County, Virginia(6,10)",51025,463.4
+"Mason County, West Virginia(6,10)",54053,463.4
+"Lake County, Illinois(6,10)",17097,463.3
+"Madison County, Virginia(6,10)",51113,463.3
+"Wilson County, Tennessee(6,10)",47189,463.3
+"Iowa County, Iowa(7,8)",19095,463.3
+"Windham County, Vermont(6,10)",50025,463.3
+"Colquitt County, Georgia(7,9)",13071,463.3
+"Wahkiakum County, Washington(6,10)",53069,463.2
+"Lewis County, Missouri(6,10)",29111,463.2
+"Piute County, Utah(7,8)",49031,463.2
+"Durham County, North Carolina(6,10)",37063,463.2
+"Mahoning County, Ohio(6,10)",39099,463.1
+"Radford City, Virginia(6,10)",51750,463.1
+"Gage County, Nebraska(6,10)",31067,463.1
+"Clay County, North Carolina(6,10)",37043,463.1
+"Gilmer County, West Virginia(6,10)",54021,463.1
+"Berkeley County, West Virginia(6,10)",54003,463.1
+"Thomas County, Georgia(7,9)",13275,463
+"Union County, New Jersey(7,8)",34039,463
+"Washington County, Kentucky(7,9)",21229,463
+"Benson County, North Dakota(6,10)",38005,462.9
+"Chase County, Nebraska(6,10)",31029,462.8
+"Trigg County, Kentucky(7,9)",21221,462.8
+"DeKalb County, Georgia(7,8)",13089,462.8
+"Marion County, Mississippi(6,10)",28091,462.7
+"Trousdale County, Tennessee(6,10)",47169,462.6
+"Grand Forks County, North Dakota(6,10)",38035,462.5
+"Cass County, North Dakota(6,10)",38017,462.5
+"Jefferson County, Ohio(6,10)",39081,462.5
+"Lee County, North Carolina(6,10)",37105,462.5
+"Cleveland County, Arkansas(6,10)",5025,462.3
+"Douglas County, Georgia(7,9)",13097,462.3
+"Livingston County, New York(6,10)",36051,462.2
+"Forest County, Pennsylvania(6,10)",42053,462.1
+"Champaign County, Ohio(6,10)",39021,462.1
+"Charleston County, South Carolina(6,10)",45019,462.1
+"Island County, Washington(7,8)",53029,462
+"Powell County, Montana(6,10)",30077,462
+"Berkeley County, South Carolina(6,10)",45015,462
+"Grayson County, Texas(6,10)",48181,461.9
+"Windsor County, Vermont(6,10)",50027,461.9
+"DuPage County, Illinois(6,10)",17043,461.9
+"Bradley County, Tennessee(6,10)",47011,461.9
+"Clarke County, Georgia(7,9)",13059,461.8
+"Okanogan County, Washington(6,10)",53047,461.8
+"Simpson County, Mississippi(6,10)",28127,461.8
+"Potter County, Texas(6,10)",48375,461.8
+"Wyandot County, Ohio(6,10)",39175,461.7
+"Kent County, Maryland(6,10)",24029,461.7
+"Greenville County, South Carolina(6,10)",45045,461.7
+"Monroe County, Georgia(7,9)",13207,461.6
+"Lamoille County, Vermont(6,10)",50015,461.6
+"Jefferson County, Georgia(7)",13163,461.6
+"Bedford County, Tennessee(6,10)",47003,461.5
+"Jasper County, Missouri(6,10)",29097,461.5
+"Edgar County, Illinois(6,10)",17045,461.5
+"Pike County, Pennsylvania(6,10)",42103,461.5
+"Shelby County, Tennessee(6,10)",47157,461.5
+"St. Helena Parish, Louisiana(7,9)",22091,461.5
+"Meigs County, Tennessee(6,10)",47121,461.4
+"Orangeburg County, South Carolina(6,10)",45075,461.3
+"Covington County, Mississippi(6,10)",28031,461.3
+"Saline County, Arkansas(6,10)",5125,461.3
+"Whitley County, Indiana(6,10)",18183,461.3
+"Union County, Mississippi(6,10)",28145,461.3
+"Crawford County, Iowa(7,8)",19047,461.2
+"Knox County, Nebraska(6,10)",31107,461.2
+"Washington County, Oklahoma(6,10)",40147,461
+"Norton City, Virginia(6,10)",51720,461
+"Delaware County, New York(6,10)",36025,461
+"White County, Indiana(6,10)",18181,460.9
+"Stokes County, North Carolina(6,10)",37169,460.9
+"Medina County, Ohio(6,10)",39103,460.9
+"St. John the Baptist Parish, Louisiana(7,9)",22095,460.8
+"San Juan County, Colorado(6,10)",8111,460.8
+"Carroll County, Missouri(6,10)",29033,460.8
+"Fergus County, Montana(6,10)",30027,460.8
+"Cleburne County, Arkansas(6,10)",5023,460.8
+"Cleburne County, Alabama(6,10)",1029,460.7
+"Lincoln County, Montana(6,10)",30053,460.7
+"Logan County, Ohio(6,10)",39091,460.6
+"Hocking County, Ohio(6,10)",39073,460.6
+"Kay County, Oklahoma(6,10)",40071,460.6
+"Gooding County, Idaho(6,10)",16047,460.6
+"Delaware County, Ohio(6,10)",39041,460.5
+"Placer County, California(7,9)",6061,460.5
+"Pickaway County, Ohio(6,10)",39129,460.5
+"Madison County, Mississippi(6,10)",28089,460.5
+"Lincoln County, North Carolina(6,10)",37109,460.5
+"Fairfield County, South Carolina(6,10)",45039,460.4
+"Gibson County, Tennessee(6,10)",47053,460.4
+"Grundy County, Tennessee(6,10)",47061,460.3
+"Cumberland County, Pennsylvania(6,10)",42041,460.3
+"Macon County, Georgia(7,9)",13193,460.3
+"Butler County, Kentucky(7,9)",21031,460.2
+"Isle of Wight County, Virginia(6,10)",51093,460.2
+"Ballard County, Kentucky(7,9)",21007,460.2
+"Pottawatomie County, Oklahoma(6,10)",40125,460.2
+"Marshall County, Oklahoma(6,10)",40095,460.2
+"Aurora County, South Dakota(6,10)",46003,460.2
+"Coahoma County, Mississippi(6,10)",28027,460.1
+"Lake County, California(7,9)",6033,460.1
+"Monroe County, Pennsylvania(6,10)",42089,460.1
+"Butler County, Missouri(6,10)",29023,460.1
+"Marion County, Alabama(6,10)",1093,460
+"Mercer County, Illinois(6,10)",17131,460
+"Lincoln County, Idaho(6,10)",16063,460
+"Sumter County, Georgia(7,9)",13261,460
+"Lawrence County, Illinois(6,10)",17101,460
+"White County, Tennessee(6,10)",47185,459.9
+"Calhoun County, West Virginia(6,10)",54013,459.9
+"Coshocton County, Ohio(6,10)",39031,459.8
+"Johnston County, North Carolina(6,10)",37101,459.8
+"Hyde County, North Carolina(6,10)",37095,459.8
+"Boone County, Missouri(6,10)",29019,459.7
+"Warren County, Illinois(6,10)",17187,459.7
+"O'Brien County, Iowa(7,8)",19141,459.7
+"Dale County, Alabama(6,10)",1045,459.6
+"Edmunds County, South Dakota(6,10)",46045,459.6
+"St. Joseph County, Indiana(6,10)",18141,459.6
+"Union County, Ohio(6,10)",39159,459.6
+"Powhatan County, Virginia(6,10)",51145,459.6
+"Hardin County, Texas(6,10)",48199,459.5
+"Multnomah County, Oregon(6,10)",41051,459.5
+"Humboldt County, California(7,9)",6023,459.5
+"Fairfield County, Ohio(6,10)",39045,459.5
+"Clinton County, Missouri(6,10)",29049,459.5
+"Pend Oreille County, Washington(6,10)",53051,459.4
+"Washington County, Alabama(6,10)",1129,459.4
+"Schuyler County, Illinois(6,10)",17169,459.3
+"Scott County, Illinois(6,10)",17171,459.2
+"Park County, Montana(6,10)",30067,459.2
+"Evangeline Parish, Louisiana(7,9)",22039,459.2
+"Coos County, New Hampshire(6,10)",33007,459.2
+"Monroe County, Wisconsin(6,10)",55081,459.2
+"Bledsoe County, Tennessee(6,10)",47007,459.1
+"Moultrie County, Illinois(6,10)",17139,459
+"Tuscola County, Michigan(6,10)",26157,459 #  
+"Colleton County, South Carolina(6,10)",45029,459
+"Pleasants County, West Virginia(6,10)",54073,458.9
+"Fulton County, Pennsylvania(6,10)",42057,458.9
+"Butler County, Ohio(6,10)",39017,458.9
+"Portage County, Ohio(6,10)",39133,458.7
+"Plaquemines Parish, Louisiana(7,9)",22075,458.7
+"Wayne County, North Carolina(6,10)",37191,458.6
+"El Dorado County, California(7,9)",6017,458.6
+"Cole County, Missouri(6,10)",29051,458.6
+"Canyon County, Idaho(6,10)",16027,458.6
+"Spartanburg County, South Carolina(6,10)",45083,458.5
+"Armstrong County, Pennsylvania(6,10)",42005,458.5
+"Jackson County, North Carolina(6,10)",37099,458.4
+"Marengo County, Alabama(6,10)",1091,458.4
+"Cleveland County, Oklahoma(6,10)",40027,458.4
+"Decatur County, Iowa(7,8)",19053,458.3
+"Chesapeake City, Virginia(6,10)",51550,458.3
+"Somerset County, Maine(6,10)",23025,458.3
+"Baylor County, Texas(6,10)",48023,458.2
+"Pike County, Illinois(6,10)",17149,458.2
+"Sheridan County, Wyoming(6,10)",56033,458.1
+"Newton County, Mississippi(6,10)",28101,457.9
+"Clarke County, Iowa(7,8)",19039,457.8
+"Craven County, North Carolina(6,10)",37049,457.8
+"Henderson County, Texas(6,10)",48213,457.8
+"Stephens County, Texas(6,10)",48429,457.8
+"Union County, Kentucky(7,9)",21225,457.7
+"Barrow County, Georgia(7,9)",13013,457.7
+"Pitt County, North Carolina(6,10)",37147,457.6
+"Payette County, Idaho(6,10)",16075,457.5
+"Jefferson County, Missouri(6,10)",29099,457.4
+"Haywood County, Tennessee(6,10)",47075,457.4
+"Alexander County, North Carolina(6,10)",37003,457.3
+"Wallowa County, Oregon(6,10)",41063,457.3
+"Morehouse Parish, Louisiana(7,9)",22067,457.3
+"Knott County, Kentucky(7,9)",21119,457.3
+"Cherokee County, North Carolina(6,10)",37039,457.2
+"La Crosse County, Wisconsin(6,10)",55063,457.2
+"Newport News City, Virginia(6,10)",51700,457.2
+"Dauphin County, Pennsylvania(6,10)",42043,457.2
+"Ottawa County, Ohio(6,10)",39123,457.1
+"McDowell County, West Virginia(6,10)",54047,457.1
+"Shawano County, Wisconsin(6,10)",55115,457.1
+"Otsego County, Michigan(6,10)",26137,457 #  
+"Shelby County, Illinois(6,10)",17173,457
+"Washington County, Maryland(6,10)",24043,457
+"Houston County, Tennessee(6,10)",47083,457
+"Fayette County, West Virginia(6,10)",54019,457
+"Richland County, North Dakota(6,10)",38077,456.9
+"Meriwether County, Georgia(7,9)",13199,456.9
+"Cimarron County, Oklahoma(6,10)",40025,456.9
+"Louisa County, Virginia(6,10)",51109,456.9
+"Parker County, Texas(6,10)",48367,456.8
+"Phillips County, Montana(6,10)",30071,456.8
+"Hardin County, Tennessee(6,10)",47071,456.8
+"Lincoln County, Nebraska(6,10)",31111,456.8
+"Wakulla County, Florida(6,10)",12129,456.7
+"Morrow County, Ohio(6,10)",39117,456.7
+"Clayton County, Iowa(7,8)",19043,456.7
+"Mineral County, West Virginia(6,10)",54057,456.6
+"Vinton County, Ohio(6,10)",39163,456.6
+"Frederick County, Virginia(6,10)",51069,456.6
+"Allen County, Ohio(6,10)",39003,456.6
+"Limestone County, Alabama(6,10)",1083,456.5
+"Love County, Oklahoma(6,10)",40085,456.5
+"Potter County, Pennsylvania(6,10)",42105,456.5
+"Richland Parish, Louisiana(7,9)",22083,456.4
+"Hancock County, Indiana(6,10)",18059,456.4
+"Marshall County, West Virginia(6,10)",54051,456.3
+"Contra Costa County, California(7,8)",6013,456.3
+"Gallia County, Ohio(6,10)",39053,456.2
+"Bradley County, Arkansas(6,10)",5011,456.2
+"Warren County, Indiana(6,10)",18171,456.2
+"Carroll County, Maryland(6,10)",24013,456.2
+"Sac County, Iowa(7,8)",19161,456.2
+"McIntosh County, Oklahoma(6,10)",40091,456
+"Somerset County, Pennsylvania(6,10)",42111,455.9
+"Oglethorpe County, Georgia(7,9)",13221,455.9
+"Chatham County, Georgia(7,9)",13051,455.8
+"Drew County, Arkansas(6,10)",5043,455.8
+"Richland County, South Carolina(6,10)",45079,455.7
+"Obion County, Tennessee(6,10)",47131,455.6
+"Crook County, Oregon(6,10)",41013,455.6
+"Desha County, Arkansas(6,10)",5041,455.6
+"Nicholas County, West Virginia(6,10)",54067,455.5
+"Trinity County, California(7,9)",6105,455.5
+"Cowlitz County, Washington(6,10)",53015,455.5
+"Fayette County, Georgia(7,9)",13113,455.4
+"Bronx County, New York(6,10)",36005,455.3
+"Wirt County, West Virginia(6,10)",54105,455.3
+"Clark County, Wisconsin(6,10)",55019,455.2
+"Hendricks County, Indiana(6,10)",18063,455.2
+"Pike County, Alabama(6,10)",1109,455.1
+"Rock County, Wisconsin(6,10)",55105,455
+"Ripley County, Missouri(6,10)",29181,455
+"Cherokee County, Texas(6,10)",48073,454.8
+"Huerfano County, Colorado(6,10)",8055,454.7
+"McCurtain County, Oklahoma(6,10)",40089,454.6
+"Winston County, Alabama(6,10)",1133,454.6
+"Talbot County, Maryland(6,10)",24041,454.6
+"Baldwin County, Alabama(6,10)",1003,454.6
+"Bates County, Missouri(6,10)",29013,454.5
+"Oklahoma County, Oklahoma(6,10)",40109,454.5
+"Tallapoosa County, Alabama(6,10)",1123,454.4
+"New Kent County, Virginia(6,10)",51127,454.3
+"Sampson County, North Carolina(6,10)",37163,454.3
+"Fremont County, Colorado(6,10)",8043,454.3
+"Webster County, Missouri(6,10)",29225,454.2
+"Elbert County, Georgia(7,9)",13105,454.2
+"Bonner County, Idaho(6,10)",16017,454.1
+"Clarke County, Alabama(6,10)",1025,453.8
+"Upshur County, West Virginia(6,10)",54097,453.7
+"Columbia County, Florida(6,10)",12023,453.7
+"Cascade County, Montana(6,10)",30013,453.7
+"Coweta County, Georgia(7,9)",13077,453.6
+"Union County, Oregon(6,10)",41061,453.6
+"Thurston County, Nebraska(6,10)",31173,453.6
+"Washington County, North Carolina(6,10)",37187,453.6
+"Richmond County, Georgia(7,9)",13245,453.5
+"Haywood County, North Carolina(6,10)",37087,453.4
+"Jefferson County, Indiana(6,10)",18077,453.4
+"Warren County, Missouri(6,10)",29219,453.4
+"Caldwell County, North Carolina(6,10)",37027,453.4
+"Todd County, Kentucky(7,9)",21219,453.4
+"Anchorage Borough, Alaska(6,10)",2020,453.3
+"Warren County, Tennessee(6,10)",47177,453.3
+"Wright County, Iowa(7,8)",19197,453.2
+"Jackson County, Missouri(6,10)",29095,453.1
+"Coos County, Oregon(6,10)",41011,453.1
+"Murray County, Georgia(7,9)",13213,453
+"Clayton County, Georgia(7,8)",13063,452.9
+"Ripley County, Indiana(6,10)",18137,452.9
+"Shelby County, Alabama(6,10)",1117,452.9
+"Wood County, Wisconsin(6,10)",55141,452.9
+"Crawford County, Indiana(6,10)",18025,452.7
+"Northampton County, North Carolina(6,10)",37131,452.7
+"Woods County, Oklahoma(6,10)",40151,452.6
+"Haskell County, Oklahoma(6,10)",40061,452.5
+"Nash County, North Carolina(6,10)",37127,452.5
+"Citrus County, Florida(6,10)",12017,452.5
+"Alleghany County, North Carolina(6,10)",37005,452.5
+"Benton County, Washington(6,10)",53005,452.4
+"Richmond County, Virginia(6,10)",51159,452.4
+"Wilson County, North Carolina(6,10)",37195,452.4
+"Kings County, New York(6,10)",36047,452.3
+"Wabash County, Indiana(6,10)",18169,452.3
+"Tippecanoe County, Indiana(6,10)",18157,452.2
+"Mendocino County, California(7,9)",6045,452.2
+"Sacramento County, California(7,9)",6067,452
+"Trempealeau County, Wisconsin(6,10)",55121,452
+"Montgomery County, Ohio(6,10)",39113,451.9
+"Story County, Iowa(7,8)",19169,451.8
+"Sagadahoc County, Maine(6,10)",23023,451.7
+"Laurens County, Georgia(7,9)",13175,451.7
+"Delaware County, Iowa(7,8)",19055,451.7
+"Jerauld County, South Dakota(6,10)",46073,451.7
+"Wilcox County, Georgia(7,9)",13315,451.7
+"Putnam County, Missouri(6,10)",29171,451.6
+"Ashland County, Wisconsin(6,10)",55003,451.5
+"Dewey County, Oklahoma(6,10)",40043,451.5
+"Iron County, Wisconsin(6,10)",55051,451.5
+"Chelan County, Washington(6,10)",53007,451.5
+"Wake County, North Carolina(6,10)",37183,451.4
+"Cheboygan County, Michigan(6,10)",26031,451.3 #  
+"Darlington County, South Carolina(6,10)",45031,451.3
+"Paulding County, Ohio(6,10)",39125,451.2
+"Price County, Wisconsin(6,10)",55099,451.2
+"Washington County, Tennessee(6,10)",47179,451.1
+"Perry County, Indiana(6,10)",18123,451.1
+"Natrona County, Wyoming(6,10)",56025,451
+"El Paso County, Colorado(6,10)",8041,451
+"Mecklenburg County, North Carolina(6,10)",37119,451
+"Westmoreland County, Virginia(6,10)",51193,450.9
+"Cumberland County, North Carolina(6,10)",37051,450.8
+"Posey County, Indiana(6,10)",18129,450.8
+"Howard County, Nebraska(6,10)",31093,450.8
+"Essex County, New Jersey(7,8)",34013,450.6
+"Assumption Parish, Louisiana(7,9)",22007,450.6
+"Miller County, Georgia(7,9)",13201,450.6
+"Stafford County, Virginia(6,10)",51179,450.5
+"Rutherford County, Tennessee(6,10)",47149,450.4
+"Santa Cruz County, California(7,9)",6087,450.4
+"Maury County, Tennessee(6,10)",47119,450.4
+"Franklin County, Vermont(6,10)",50011,450.4
+"Northumberland County, Virginia(6,10)",51133,450.4
+"Mitchell County, North Carolina(6,10)",37121,450.3
+"Champaign County, Illinois(6,10)",17019,450.2
+"Allen Parish, Louisiana(7,9)",22003,450
+"Douglas County, Washington(6,10)",53017,449.9
+"Lincoln County, Oregon(6,10)",41041,449.9
+"Payne County, Oklahoma(6,10)",40119,449.8
+"Hamilton County, Iowa(7,8)",19079,449.8
+"Lancaster County, Pennsylvania(6,10)",42071,449.7
+"Lauderdale County, Alabama(6,10)",1077,449.5
+"Miami County, Ohio(6,10)",39109,449.5
+"Prairie County, Arkansas(6,10)",5117,449.5
+"Lafayette County, Missouri(6,10)",29107,449.5
+"Spotsylvania County, Virginia(6,10)",51177,449.4
+"Garfield County, Oklahoma(6,10)",40047,449.4
+"Stark County, Ohio(6,10)",39151,449.3
+"Door County, Wisconsin(6,10)",55029,449.3
+"Roane County, West Virginia(6,10)",54087,449.2
+"Butte County, South Dakota(6,10)",46019,449.2
+"Ross County, Ohio(6,10)",39141,449.2
+"Yadkin County, North Carolina(6,10)",37197,449.1
+"Jackson County, Tennessee(6,10)",47087,449.1
+"Glynn County, Georgia(7,9)",13127,449.1
+"Madison County, Ohio(6,10)",39097,449.1
+"Faulkner County, Arkansas(6,10)",5045,449
+"Warrick County, Indiana(6,10)",18173,449
+"Columbia County, Oregon(6,10)",41009,449
+"Jackson County, Oklahoma(6,10)",40065,448.8
+"Merrick County, Nebraska(6,10)",31121,448.8
+"Marshall County, Indiana(6,10)",18099,448.8
+"Langlade County, Wisconsin(6,10)",55067,448.8
+"Coke County, Texas(6,10)",48081,448.8
+"Fannin County, Georgia(7,9)",13111,448.7
+"Marion County, Indiana(6,10)",18097,448.5
+"York County, South Carolina(6,10)",45091,448.5
+"Huron County, Michigan(6,10)",26063,448.5 #  
+"Mecosta County, Michigan(6,10)",26107,448.5 #  
+"Bartholomew County, Indiana(6,10)",18005,448.4
+"Issaquena County, Mississippi(6,10)",28055,448.4
+"Passaic County, New Jersey(7,8)",34031,448.4
+"Burke County, North Dakota(6,10)",38013,448.3
+"Clark County, Idaho(6,10)",16033,448.2
+"Dodge County, Georgia(7,9)",13091,448.2
+"Cass County, Illinois(6,10)",17017,448.2
+"Bay County, Michigan(6,10)",26017,448.2 #  
+"McCook County, South Dakota(6,10)",46087,448.1
+"Jasper County, Texas(6,10)",48241,448.1
+"Duchesne County, Utah(7,8)",49013,448.1
+"Hansford County, Texas(6,10)",48195,448
+"Washakie County, Wyoming(6,10)",56043,448
+"Fountain County, Indiana(6,10)",18045,447.9
+"Teton County, Montana(6,10)",30099,447.8
+"Wyoming County, West Virginia(6,10)",54109,447.8
+"Alachua County, Florida(6,10)",12001,447.8
+"Kosciusko County, Indiana(6,10)",18085,447.8
+"Boone County, Illinois(6,10)",17007,447.8
+"Falls Church City, Virginia(6,10)",51610,447.7
+"Warren County, North Carolina(6,10)",37185,447.7
+"Kaufman County, Texas(6,10)",48257,447.7
+"Alfalfa County, Oklahoma(6,10)",40003,447.6
+"Montgomery County, North Carolina(6,10)",37123,447.6
+"Hernando County, Florida(6,10)",12053,447.5
+"McMinn County, Tennessee(6,10)",47107,447.5
+"Tallahatchie County, Mississippi(6,10)",28135,447.4
+"Clackamas County, Oregon(6,10)",41005,447.3
+"Custer County, Idaho(6,10)",16037,447.3
+"Natchitoches Parish, Louisiana(7,9)",22069,447.2
+"Dixon County, Nebraska(6,10)",31051,447.2
+"Seward County, Nebraska(6,10)",31159,447.2
+"Gratiot County, Michigan(6,10)",26057,447.1 #  
+"Tuscarawas County, Ohio(6,10)",39157,447.1
+"Brule County, South Dakota(6,10)",46015,447.1
+"Ransom County, North Dakota(6,10)",38073,447
+"San Mateo County, California(7,8)",6081,447
+"Defiance County, Ohio(6,10)",39039,446.9
+"Lancaster County, Virginia(6,10)",51103,446.8
+"Shelby County, Iowa(7,8)",19165,446.8
+"Isabella County, Michigan(6,10)",26073,446.7 #  
+"Jones County, Mississippi(6,10)",28067,446.7
+"Winnebago County, Iowa(7,8)",19189,446.6
+"Montgomery County, Tennessee(6,10)",47125,446.6
+"Owyhee County, Idaho(6,10)",16073,446.4
+"Kane County, Illinois(6,10)",17089,446.2
+"Seminole County, Georgia(7,9)",13253,446.2
+"Coryell County, Texas(6,10)",48099,446.1
+"Jefferson County, Wisconsin(6,10)",55055,446.1
+"Edgecombe County, North Carolina(6,10)",37065,446.1
+"Saline County, Missouri(6,10)",29195,445.9
+"Yell County, Arkansas(6,10)",5149,445.9
+"Benton County, Iowa(7,8)",19011,445.9
+"Grant County, Oklahoma(6,10)",40053,445.9
+"Baldwin County, Georgia(7,9)",13009,445.9
+"Searcy County, Arkansas(6,10)",5129,445.8
+"Chambers County, Texas(6,10)",48071,445.8
+"Lawrence County, Ohio(6,10)",39087,445.7
+"Jones County, Iowa(7,8)",19105,445.7
+"Jefferson County, Texas(6,10)",48245,445.6
+"Tishomingo County, Mississippi(6,10)",28141,445.6
+"Harlan County, Nebraska(6,10)",31083,445.6
+"Columbiana County, Ohio(6,10)",39029,445.6
+"Jackson County, Ohio(6,10)",39079,445.6
+"Lowndes County, Mississippi(6,10)",28087,445.6
+"Silver Bow County, Montana(6,10)",30093,445.5
+"Rogers County, Oklahoma(6,10)",40131,445.5
+"Harrison County, Ohio(6,10)",39067,445.5
+"Butler County, Alabama(6,10)",1013,445.5
+"Jefferson County, Montana(6,10)",30043,445.4
+"Marion County, South Carolina(6,10)",45067,445.3
+"Gosper County, Nebraska(6,10)",31073,445.3
+"Chilton County, Alabama(6,10)",1021,445.2
+"Kleberg County, Texas(6,10)",48273,445.2
+"Choctaw County, Oklahoma(6,10)",40023,445.2
+"Barbour County, West Virginia(6,10)",54001,445.2
+"Mecklenburg County, Virginia(6,10)",51117,445.1
+"Richland County, Ohio(6,10)",39139,445.1
+"Greene County, Indiana(6,10)",18055,445
+"Mohave County, Arizona(6,10)",4015,444.9
+"Mathews County, Virginia(6,10)",51115,444.9
+"Hinsdale County, Colorado(6,10)",8053,444.9
+"Unicoi County, Tennessee(6,10)",47171,444.8
+"Flagler County, Florida(6,10)",12035,444.8
+"Henrico County, Virginia(6,10)",51087,444.7
+"Johnson County, Texas(6,10)",48251,444.7
+"Morrill County, Nebraska(6,10)",31123,444.6
+"Yuba County, California(7,9)",6115,444.6
+"Victoria County, Texas(6,10)",48469,444.5
+"Grundy County, Missouri(6,10)",29079,444.5
+"Monongalia County, West Virginia(6,10)",54061,444.5
+"Butler County, Iowa(7,8)",19023,444.5
+"Evans County, Georgia(7,9)",13109,444.5
+"Warren County, Ohio(6,10)",39165,444.5
+"Calvert County, Maryland(6,10)",24009,444.5
+"Sumter County, Florida(6,10)",12119,444.5
+"Catawba County, North Carolina(6,10)",37035,444.3
+"Chariton County, Missouri(6,10)",29041,444.2
+"Lamar County, Mississippi(6,10)",28073,444.2
+"Putnam County, Indiana(6,10)",18133,444.2
+"Escambia County, Florida(6,10)",12033,444.2
+"Monroe County, Alabama(6,10)",1099,444.1
+"Wasco County, Oregon(6,10)",41065,444.1
+"Richardson County, Nebraska(6,10)",31147,444
+"Daniels County, Montana(6,10)",30019,444
+"Conway County, Arkansas(6,10)",5029,443.9
+"Rutherford County, North Carolina(6,10)",37161,443.9
+"Galveston County, Texas(6,10)",48167,443.8
+"Talbot County, Georgia(7,9)",13263,443.8
+"San Luis Obispo County, California(7,9)",6079,443.7
+"Pocahontas County, Iowa(7,8)",19151,443.6
+"Frontier County, Nebraska(6,10)",31063,443.6
+"Buffalo County, Nebraska(6,10)",31019,443.6
+"Florence County, South Carolina(6,10)",45041,443.6
+"Nacogdoches County, Texas(6,10)",48347,443.5
+"Williamson County, Tennessee(6,10)",47187,443.4
+"Perry County, Ohio(6,10)",39127,443.4
+"Glenn County, California(7,9)",6021,443.4
+"Colbert County, Alabama(6,10)",1033,443.3
+"San Patricio County, Texas(6,10)",48409,443.3
+"West Carroll Parish, Louisiana(7,9)",22123,443.2
+"Mercer County, Ohio(6,10)",39107,443.1
+"Carroll County, Iowa(7,8)",19027,443.1
+"Hancock County, Mississippi(6,10)",28045,443.1
+"Weakley County, Tennessee(6,10)",47183,443.1
+"Tom Green County, Texas(6,10)",48451,443
+"Hampden County, Massachusetts(6,10)",25013,442.9
+"Sullivan County, Indiana(6,10)",18153,442.8
+"Elkhart County, Indiana(6,10)",18039,442.7
+"Greer County, Oklahoma(6,10)",40055,442.7
+"Macon County, Alabama(6,10)",1087,442.6
+"Centre County, Pennsylvania(6,10)",42027,442.6
+"New Hanover County, North Carolina(6,10)",37129,442.6
+"Dare County, North Carolina(6,10)",37055,442.5
+"Walla Walla County, Washington(6,10)",53071,442.5
+"Pennington County, South Dakota(6,10)",46103,442.5
+"Lawrence County, Arkansas(6,10)",5075,442.5
+"Putnam County, Tennessee(6,10)",47141,442.4
+"Clinch County, Georgia(7,9)",13065,442.3
+"Washita County, Oklahoma(6,10)",40149,442.3
+"Palo Alto County, Iowa(7,8)",19147,442.3
+"Navarro County, Texas(6,10)",48349,442.2
+"Beaufort County, South Carolina(6,10)",45013,442.1
+"Atoka County, Oklahoma(6,10)",40005,442
+"Marion County, Arkansas(6,10)",5089,442
+"Green Lake County, Wisconsin(6,10)",55047,441.8
+"Stephens County, Oklahoma(6,10)",40137,441.8
+"St. Johns County, Florida(6,10)",12109,441.8
+"Spencer County, Indiana(6,10)",18147,441.7
+"Malheur County, Oregon(6,10)",41045,441.7
+"Jackson County, Oregon(6,10)",41029,441.7
+"Fayette County, Ohio(6,10)",39047,441.6
+"Childress County, Texas(6,10)",48075,441.6
+"Throckmorton County, Texas(6,10)",48447,441.6
+"Lafayette County, Mississippi(6,10)",28071,441.6
+"Howard County, Texas(6,10)",48227,441.6
+"Clinton County, Indiana(6,10)",18023,441.5
+"Kenai Peninsula Borough, Alaska(6,10)",2122,441.4
+"Alcorn County, Mississippi(6,10)",28003,441.3
+"Poquoson City, Virginia(6,10)",51735,441.3
+"Jerome County, Idaho(6,10)",16053,441.3
+"Wilkes County, North Carolina(6,10)",37193,441.2
+"Jackson County, Wisconsin(6,10)",55053,441.2
+"Tarrant County, Texas(6,10)",48439,441.1
+"Geauga County, Ohio(6,10)",39055,441
+"Gregg County, Texas(6,10)",48183,441
+"Eau Claire County, Wisconsin(6,10)",55035,440.9
+"Hill County, Texas(6,10)",48217,440.9
+"Kearney County, Nebraska(6,10)",31099,440.9
+"Okeechobee County, Florida(6,10)",12093,440.9
+"Greene County, North Carolina(6,10)",37079,440.8
+"Adair County, Iowa(7,8)",19001,440.7
+"Orange County, Florida(6,10)",12095,440.7
+"Spokane County, Washington(6,10)",53063,440.7
+"Camden County, Georgia(7,9)",13039,440.7
+"Bryan County, Oklahoma(6,10)",40013,440.5
+"Manitowoc County, Wisconsin(6,10)",55071,440.1
+"Macon County, North Carolina(6,10)",37113,440
+"Dearborn County, Indiana(6,10)",18029,439.8
+"Crawford County, Arkansas(6,10)",5033,439.8
+"Custer County, Colorado(6,10)",8027,439.8
+"Lake County, South Dakota(6,10)",46079,439.7
+"Clearwater County, Idaho(6,10)",16035,439.7
+"Gentry County, Missouri(6,10)",29075,439.7
+"Sanders County, Montana(6,10)",30089,439.6
+"Gwinnett County, Georgia(7,8)",13135,439.6
+"Stoddard County, Missouri(6,10)",29207,439.5
+"Cheyenne County, Nebraska(6,10)",31033,439.5
+"Darke County, Ohio(6,10)",39037,439.3
+"Denver County, Colorado(6,10)",8031,439.2
+"Schoolcraft County, Michigan(6,10)",26153,439.1 #  
+"Fayette County, Indiana(6,10)",18041,439.1
+"Seneca County, Ohio(6,10)",39147,439
+"Dallas County, Iowa(7,8)",19049,438.9
+"Burleigh County, North Dakota(6,10)",38015,438.9
+"Montgomery County, Alabama(6,10)",1101,438.8
+"Orleans County, Vermont(6,10)",50019,438.8
+"Lauderdale County, Mississippi(6,10)",28075,438.8
+"Lawrence County, Tennessee(6,10)",47099,438.8
+"Wade Hampton Census Area, Alaska(6,10)",2270,438.7
+"Marshall County, Mississippi(6,10)",28093,438.7
+"Midland County, Michigan(6,10)",26111,438.7 #  
+"Jersey County, Illinois(6,10)",17083,438.7
+"Putnam County, Georgia(7)",13237,438.7
+"Independence County, Arkansas(6,10)",5063,438.6
+"Phillips County, Arkansas(6,10)",5107,438.5
+"Logan County, Oklahoma(6,10)",40083,438.5
+"Hood County, Texas(6,10)",48221,438.5
+"Harrison County, Indiana(6,10)",18061,438.5
+"Laramie County, Wyoming(6,10)",56021,438.5
+"New Madrid County, Missouri(6,10)",29143,438.4
+"Morgan County, Ohio(6,10)",39115,438.4
+"Ochiltree County, Texas(6,10)",48357,438.4
+"Broward County, Florida(6,10)",12011,438.3
+"Baker County, Oregon(6,10)",41001,438.3
+"St. Clair County, Alabama(6,10)",1115,438.3
+"Emanuel County, Georgia(7,9)",13107,438.2
+"Montgomery County, Texas(6,10)",48339,438.1
+"Cherokee County, Oklahoma(6,10)",40021,438.1
+"Cherokee County, Iowa(7,8)",19035,438.1
+"Klamath County, Oregon(6,10)",41035,438
+"Marshall County, Alabama(6,10)",1095,437.9
+"Guthrie County, Iowa(7,8)",19077,437.9
+"Wilkinson County, Mississippi(6,10)",28157,437.7
+"Rockdale County, Georgia(7,9)",13247,437.7
+"Chowan County, North Carolina(6,10)",37041,437.7
+"Perry County, Missouri(6,10)",29157,437.7
+"Houston County, Georgia(7,9)",13153,437.6
+"Bamberg County, South Carolina(6,10)",45009,437.6
+"Summit County, Ohio(6,10)",39153,437.5
+"Dawson County, Texas(6,10)",48115,437.5
+"Dodge County, Wisconsin(6,10)",55027,437.3
+"Cochran County, Texas(6,10)",48079,437.3
+"Greene County, Ohio(6,10)",39057,437.3
+"Wayne County, Pennsylvania(6,10)",42127,437.2
+"Clay County, Tennessee(6,10)",47027,437.1
+"Madison County, Alabama(6,10)",1089,437.1
+"Henry County, Virginia(6,10)",51089,437.1
+"Montgomery County, Georgia(7,9)",13209,437
+"Prince George County, Virginia(6,10)",51149,437
+"Addison County, Vermont(6,10)",50001,436.9
+"Niobrara County, Wyoming(6,10)",56027,436.8
+"Orange County, North Carolina(6,10)",37135,436.7
+"Custer County, Oklahoma(6,10)",40039,436.7
+"Jefferson County, Colorado(6,10)",8059,436.7
+"Lincoln County, Maine(6,10)",23015,436.6
+"Dixie County, Florida(6,10)",12029,436.6
+"Campbell County, Wyoming(6,10)",56005,436.5
+"Ector County, Texas(6,10)",48135,436.4
+"Cumberland County, Virginia(6,10)",51049,436.4
+"Lincoln Parish, Louisiana(7,9)",22061,436.3
+"Ramsey County, North Dakota(6,10)",38071,436.3
+"Ellis County, Texas(6,10)",48139,436.2
+"Turner County, South Dakota(6,10)",46125,436
+"Pueblo County, Colorado(6,10)",8101,436
+"Nelson County, North Dakota(6,10)",38063,436
+"Frederick County, Maryland(6,10)",24021,435.9
+"Montezuma County, Colorado(6,10)",8083,435.9
+"Irion County, Texas(6,10)",48235,435.8
+"Armstrong County, Texas(6,10)",48011,435.7
+"Allen County, Indiana(6,10)",18003,435.7
+"Calhoun County, Texas(6,10)",48057,435.6
+"Virginia Beach City, Virginia(6,10)",51810,435.6
+"Richland County, Montana(6,10)",30083,435.5
+"Grafton County, New Hampshire(6,10)",33009,435.5
+"Lemhi County, Idaho(6,10)",16059,435.5
+"Green County, Kentucky(7,9)",21087,435.4
+"Dallas County, Missouri(6,10)",29059,435.4
+"Fluvanna County, Virginia(6,10)",51065,435.3
+"Preston County, West Virginia(6,10)",54077,435.3
+"Queens County, New York(6,10)",36081,435.2
+"Franklin County, Maine(6,10)",23007,435.2
+"Meigs County, Ohio(6,10)",39105,435.2
+"Covington County, Alabama(6,10)",1039,435.1
+"Goliad County, Texas(6,10)",48175,435
+"Crittenden County, Kentucky(7,9)",21055,435
+"San Diego County, California(7,9)",6073,434.9
+"Wheeler County, Texas(6,10)",48483,434.9
+"Converse County, Wyoming(6,10)",56009,434.9
+"Boone County, Iowa(7,8)",19015,434.9
+"Irwin County, Georgia(7,9)",13155,434.9
+"Wayne County, Tennessee(6,10)",47181,434.8
+"Gulf County, Florida(6,10)",12045,434.7
+"Red River County, Texas(6,10)",48387,434.6
+"Monroe County, West Virginia(6,10)",54063,434.6
+"Worth County, Georgia(7,9)",13321,434.6
+"Mayes County, Oklahoma(6,10)",40097,434.6
+"Howard County, Arkansas(6,10)",5061,434.6
+"Greene County, Missouri(6,10)",29077,434.6
+"Montague County, Texas(6,10)",48337,434.5
+"Bradford County, Florida(6,10)",12007,434.4
+"Charlotte County, Virginia(6,10)",51037,434.4
+"Box Butte County, Nebraska(6,10)",31013,434.4
+"Juneau County, Wisconsin(6,10)",55057,434.3
+"Madison County, Iowa(7,8)",19121,434.2
+"Susquehanna County, Pennsylvania(6,10)",42115,434.1
+"Grady County, Georgia(7,9)",13131,434.1
+"Hertford County, North Carolina(6,10)",37091,434.1
+"Escambia County, Alabama(6,10)",1053,434
+"Madison County, Tennessee(6,10)",47113,434
+"Mitchell County, Texas(6,10)",48335,434
+"Sumter County, Alabama(6,10)",1119,433.9
+"Macon County, Missouri(6,10)",29121,433.8
+"Harris County, Texas(6,10)",48201,433.8
+"Decatur County, Indiana(6,10)",18031,433.7
+"Daviess County, Missouri(6,10)",29061,433.7
+"McNairy County, Tennessee(6,10)",47109,433.7
+"Livingston County, Michigan(6,10)",26093,433.5 #  
+"Wythe County, Virginia(6,10)",51197,433.5
+"Essex County, Virginia(6,10)",51057,433.5
+"Aransas County, Texas(6,10)",48007,433.4
+"Cross County, Arkansas(6,10)",5037,433.4
+"Stanislaus County, California(7,9)",6099,433.4
+"Hardin County, Ohio(6,10)",39065,433.4
+"Wayne County, West Virginia(6,10)",54099,433.2
+"Ringgold County, Iowa(7,8)",19159,433.2
+"Ogle County, Illinois(6,10)",17141,433.2
+"Clay County, Arkansas(6,10)",5021,433.2
+"Carbon County, Utah(7,8)",49007,433.1
+"Osage County, Missouri(6,10)",29151,433.1
+"Banks County, Georgia(7,9)",13011,433
+"Santa Barbara County, California(7,9)",6083,433
+"San Benito County, California(7,9)",6069,433
+"Union County, Pennsylvania(6,10)",42119,432.9
+"Osceola County, Iowa(7,8)",19143,432.9
+"Taney County, Missouri(6,10)",29213,432.8
+"Ventura County, California(7,9)",6111,432.7
+"Summit County, Utah(7,8)",49043,432.7
+"Appomattox County, Virginia(6,10)",51011,432.6
+"Cherokee County, Alabama(6,10)",1019,432.6
+"Claiborne County, Mississippi(6,10)",28021,432.6
+"McLennan County, Texas(6,10)",48309,432.6
+"Dallas County, Texas(6,10)",48113,432.5
+"Thayer County, Nebraska(6,10)",31169,432.5
+"Wasatch County, Utah(7,8)",49051,432.5
+"Adams County, Indiana(6,10)",18001,432.5
+"Quitman County, Mississippi(6,10)",28119,432.5
+"Waushara County, Wisconsin(6,10)",55137,432.3
+"Tillamook County, Oregon(6,10)",41057,432.2
+"Limestone County, Texas(6,10)",48293,432.2
+"Comanche County, Texas(6,10)",48093,432.1
+"San Joaquin County, California(7,9)",6077,432.1
+"Faulk County, South Dakota(6,10)",46049,432
+"Kemper County, Mississippi(6,10)",28069,432
+"Hancock County, Ohio(6,10)",39063,431.9
+"Caribou County, Idaho(6,10)",16029,431.8
+"Red River Parish, Louisiana(7,9)",22081,431.7
+"Wayne County, Mississippi(6,10)",28153,431.7
+"Adams County, Idaho(6,10)",16003,431.7
+"Del Norte County, California(7,9)",6015,431.6
+"Union County, Iowa(7,8)",19175,431.6
+"Knox County, Missouri(6,10)",29103,431.6
+"Lake County, Montana(6,10)",30047,431.5
+"Decatur County, Tennessee(6,10)",47039,431.5
+"Van Buren County, Michigan(6,10)",26159,431.5 #  
+"Washington County, Nebraska(6,10)",31177,431.4
+"Winneshiek County, Iowa(7,8)",19191,431.4
+"Windham County, Connecticut(7,8)",9015,431.4
+"Hood River County, Oregon(6,10)",41027,431.3
+"Nuckolls County, Nebraska(6,10)",31129,431.1
+"Anson County, North Carolina(6,10)",37007,431.1
+"Vanderburgh County, Indiana(6,10)",18163,431.1
+"Tyrrell County, North Carolina(6,10)",37177,431
+"Bremer County, Iowa(7,8)",19017,430.9
+"Abbeville County, South Carolina(6,10)",45001,430.9
+"Laclede County, Missouri(6,10)",29105,430.9
+"Hooker County, Nebraska(6,10)",31091,430.8
+"Pinellas County, Florida(6,10)",12103,430.8
+"Ashley County, Arkansas(6,10)",5003,430.8
+"Dane County, Wisconsin(6,10)",55025,430.7
+"McCulloch County, Texas(6,10)",48307,430.6
+"Ward County, Texas(6,10)",48475,430.5
+"Indian River County, Florida(6,10)",12061,430.4
+"Pawnee County, Oklahoma(6,10)",40117,430.4
+"Hutchinson County, South Dakota(6,10)",46067,430.4
+"Coffee County, Alabama(6,10)",1031,430.4
+"Marquette County, Michigan(6,10)",26103,430.4 #  
+"Siskiyou County, California(7,9)",6093,430.4
+"Johnson County, Indiana(6,10)",18081,430.4
+"Bottineau County, North Dakota(6,10)",38009,430.4
+"Lewis County, Washington(6,10)",53041,430.4
+"Bertie County, North Carolina(6,10)",37015,430.4
+"Washington County, Arkansas(6,10)",5143,430.3
+"Okaloosa County, Florida(6,10)",12091,430.2
+"Lewis and Clark County, Montana(6,10)",30049,430.2
+"Umatilla County, Oregon(6,10)",41059,430.1
+"Crockett County, Tennessee(6,10)",47033,430.1
+"Cass County, Missouri(6,10)",29037,430.1
+"Comanche County, Oklahoma(6,10)",40031,430.1
+"Page County, Virginia(6,10)",51139,430.1
+"Lubbock County, Texas(6,10)",48303,430
+"Dubois County, Indiana(6,10)",18037,429.9
+"Blount County, Alabama(6,10)",1009,429.9
+"Custer County, Nebraska(6,10)",31041,429.8
+"Union County, North Carolina(6,10)",37179,429.7
+"Harrison County, Texas(6,10)",48203,429.7
+"Queen Annes County, Maryland(6,10)",24035,429.6
+"Smith County, Texas(6,10)",48423,429.6
+"Grant County, South Dakota(6,10)",46051,429.5
+"Arapahoe County, Colorado(6,10)",8005,429.5
+"Milam County, Texas(6,10)",48331,429.4
+"Clark County, South Dakota(6,10)",46025,429.4
+"Lanier County, Georgia(7,9)",13173,429.4
+"Caddo County, Oklahoma(6,10)",40015,429.4
+"Sebastian County, Arkansas(6,10)",5131,429.4
+"Brazoria County, Texas(6,10)",48039,429.3
+"Boone County, Indiana(6,10)",18011,429.3
+"Washington County, Oregon(6,10)",41067,429.2
+"Hickman County, Kentucky(7,9)",21105,429.2
+"Teller County, Colorado(6,10)",8119,429.1
+"McHenry County, North Dakota(6,10)",38049,429.1
+"DeWitt County, Texas(6,10)",48123,429
+"West Feliciana Parish, Louisiana(7,9)",22125,429
+"San Francisco County, California(7,8)",6075,428.9
+"Davis County, Utah(7,8)",49011,428.8
+"DeSoto County, Mississippi(6,10)",28033,428.8
+"Prentiss County, Mississippi(6,10)",28117,428.8
+"Eastland County, Texas(6,10)",48133,428.7
+"Monroe County, Indiana(6,10)",18105,428.7
+"Saunders County, Nebraska(6,10)",31155,428.6
+"Allamakee County, Iowa(7,8)",19005,428.5
+"Rains County, Texas(6,10)",48379,428.5
+"Red Willow County, Nebraska(6,10)",31145,428.4
+"Grant County, Wisconsin(6,10)",55043,428.2
+"Yolo County, California(7,9)",6113,428.2
+"Warren County, Virginia(6,10)",51187,428.2
+"Chesterfield County, South Carolina(6,10)",45025,428.1
+"Cooke County, Texas(6,10)",48097,428.1
+"Calhoun County, Michigan(6,10)",26025,428.1 #  
+"Young County, Texas(6,10)",48503,428
+"Randall County, Texas(6,10)",48381,428
+"Belmont County, Ohio(6,10)",39013,427.9
+"Gibson County, Indiana(6,10)",18051,427.8
+"Seminole County, Florida(6,10)",12117,427.8
+"Newton County, Indiana(6,10)",18111,427.8
+"Brown County, Texas(6,10)",48049,427.7
+"Clay County, Mississippi(6,10)",28025,427.7
+"Chatham County, North Carolina(6,10)",37037,427.6
+"Bowie County, Texas(6,10)",48037,427.6
+"Amherst County, Virginia(6,10)",51009,427.4
+"Clark County, Washington(6,10)",53011,427.4
+"Nolan County, Texas(6,10)",48353,427.3
+"Sioux County, Iowa(7,8)",19167,427.3
+"Davis County, Iowa(7,8)",19051,427.3
+"Yuma County, Colorado(6,10)",8125,427.2
+"Lexington County, South Carolina(6,10)",45063,427.2
+"Highland County, Ohio(6,10)",39071,427
+"Berrien County, Georgia(7,9)",13019,426.9
+"Brown County, Indiana(6,10)",18013,426.9
+"Emmet County, Iowa(7,8)",19063,426.9
+"Ouachita County, Arkansas(6,10)",5103,426.8
+"Mitchell County, Iowa(7,8)",19131,426.7
+"Surry County, Virginia(6,10)",51181,426.5
+"Santa Rosa County, Florida(6,10)",12113,426.5
+"Perkins County, South Dakota(6,10)",46105,426.4
+"Pierce County, Nebraska(6,10)",31139,426.4
+"Newberry County, South Carolina(6,10)",45071,426.3
+"Boone County, Arkansas(6,10)",5009,426.3
+"Cullman County, Alabama(6,10)",1043,426.3
+"Buena Vista County, Iowa(7,8)",19021,426.3
+"Deer Lodge County, Montana(6,10)",30023,426.1
+"Carbon County, Wyoming(6,10)",56007,426.1
+"Ashland County, Ohio(6,10)",39005,426
+"Lancaster County, Nebraska(6,10)",31109,425.9
+"Lenawee County, Michigan(6,10)",26091,425.8 #  
+"Lancaster County, South Carolina(6,10)",45057,425.8
+"Allen County, Kentucky(7,9)",21003,425.8
+"Morgan County, Missouri(6,10)",29141,425.7
+"Tipton County, Indiana(6,10)",18159,425.7
+"Stark County, North Dakota(6,10)",38089,425.7
+"Putnam County, Ohio(6,10)",39137,425.6
+"Randolph County, Arkansas(6,10)",5121,425.6
+"Miner County, South Dakota(6,10)",46097,425.6
+"Hart County, Georgia(7,9)",13147,425.6
+"Johnson County, Nebraska(6,10)",31097,425.6
+"Taylor County, Florida(6,10)",12123,425.5
+"Liberty County, Georgia(7,9)",13179,425.5
+"Sullivan County, Missouri(6,10)",29211,425.4
+"Morgan County, West Virginia(6,10)",54065,425.4
+"Somervell County, Texas(6,10)",48425,425.4
+"Oktibbeha County, Mississippi(6,10)",28105,425.4
+"Dillon County, South Carolina(6,10)",45033,425.3
+"Williamsburg County, South Carolina(6,10)",45089,425.2
+"Honolulu County, Hawaii(7,9)",15003,425.2
+"Indiana County, Pennsylvania(6,10)",42063,425.1
+"Platte County, Missouri(6,10)",29165,425.1
+"Amite County, Mississippi(6,10)",28005,425.1
+"Lucas County, Iowa(7,8)",19117,425.1
+"Parke County, Indiana(6,10)",18121,425
+"Pawnee County, Nebraska(6,10)",31133,425
+"Morris County, Texas(6,10)",48343,425
+"Van Wert County, Ohio(6,10)",39161,425
+"Nodaway County, Missouri(6,10)",29147,425
+"Dunklin County, Missouri(6,10)",29069,424.9
+"McIntosh County, North Dakota(6,10)",38051,424.9
+"Van Zandt County, Texas(6,10)",48467,424.9
+"Washington County, Texas(6,10)",48477,424.8
+"Pondera County, Montana(6,10)",30073,424.8
+"Logan County, Arkansas(6,10)",5083,424.7
+"Brazos County, Texas(6,10)",48041,424.7
+"Hoke County, North Carolina(6,10)",37093,424.7
+"Wharton County, Texas(6,10)",48481,424.5
+"Upshur County, Texas(6,10)",48459,424.5
+"Platte County, Nebraska(6,10)",31141,424.5
+"Pickens County, Alabama(6,10)",1107,424.5
+"Terry County, Texas(6,10)",48445,424.4
+"Beadle County, South Dakota(6,10)",46005,424.4
+"Guadalupe County, Texas(6,10)",48187,424.4
+"Fairbanks North Star, Alaska(6,10)",2090,424.4
+"Dent County, Missouri(6,10)",29065,424.4
+"Miami County, Indiana(6,10)",18103,424.4
+"Denton County, Texas(6,10)",48121,424.3
+"Karnes County, Texas(6,10)",48255,424.2
+"Sierra County, New Mexico(7,8)",35051,424.2
+"Sandusky County, Ohio(6,10)",39143,424.2
+"Iowa County, Wisconsin(6,10)",55049,424.1
+"Valley County, Montana(6,10)",30105,424
+"Douglas County, Colorado(6,10)",8035,424
+"Van Buren County, Arkansas(6,10)",5141,424
+"Codington County, South Dakota(6,10)",46029,423.9
+"Dade County, Georgia(7,9)",13083,423.9
+"Polk County, North Carolina(6,10)",37149,423.9
+"Nevada County, California(7,9)",6057,423.9
+"Stevens County, Washington(6,10)",53065,423.8
+"Fillmore County, Nebraska(6,10)",31059,423.8
+"Huntingdon County, Pennsylvania(6,10)",42061,423.7
+"Jefferson County, West Virginia(6,10)",54037,423.7
+"Jefferson County, Iowa(7,8)",19101,423.6
+"Noxubee County, Mississippi(6,10)",28103,423.5
+"Miller County, Arkansas(6,10)",5091,423.4
+"Marion County, Texas(6,10)",48315,423.4
+"Hamilton County, Texas(6,10)",48193,423.4
+"Phelps County, Missouri(6,10)",29161,423.3
+"St. Marys County, Maryland(6,10)",24037,423.2
+"Lafayette County, Wisconsin(6,10)",55065,423.2
+"Monroe County, Ohio(6,10)",39111,423.2
+"Sabine County, Texas(6,10)",48403,423.1
+"San Bernardino County, California(7,9)",6071,423.1
+"Attala County, Mississippi(6,10)",28007,423
+"James City County, Virginia(6,10)",51095,423
+"Runnels County, Texas(6,10)",48399,423
+"Big Horn County, Montana(6,10)",30003,422.9
+"Howard County, Indiana(6,10)",18067,422.9
+"Franklin County, Virginia(6,10)",51067,422.8
+"Bingham County, Idaho(6,10)",16011,422.8
+"Rockwall County, Texas(6,10)",48397,422.8
+"Hutchinson County, Texas(6,10)",48233,422.7
+"Monroe County, Missouri(6,10)",29137,422.7
+"Cape Girardeau County, Missouri(6,10)",29031,422.7
+"Mackinac County, Michigan(6,10)",26097,422.5 #  
+"Hampton County, South Carolina(6,10)",45049,422.5
+"DeKalb County, Tennessee(6,10)",47041,422.5
+"Volusia County, Florida(6,10)",12127,422.4
+"Palm Beach County, Florida(6,10)",12099,422.3
+"Hardee County, Florida(6,10)",12049,422.3
+"Washington County, Missouri(6,10)",29221,422.2
+"Hot Spring County, Arkansas(6,10)",5059,422.1
+"Antrim County, Michigan(6,10)",26009,422.1 #  
+"Kewaunee County, Wisconsin(6,10)",55061,422
+"Chouteau County, Montana(6,10)",30015,421.9
+"Lincoln County, Tennessee(6,10)",47103,421.9
+"Miller County, Missouri(6,10)",29131,421.8
+"Franklin County, Alabama(6,10)",1059,421.7
+"McCormick County, South Carolina(6,10)",45065,421.7
+"Avery County, North Carolina(6,10)",37011,421.7
+"Jo Daviess County, Illinois(6,10)",17085,421.6
+"Culpeper County, Virginia(6,10)",51047,421.6
+"Suwannee County, Florida(6,10)",12121,421.4
+"Clay County, Texas(6,10)",48077,421.4
+"Beaver County, Utah(7,8)",49001,421.4
+"Franklin County, Washington(6,10)",53021,420.9
+"Walker County, Georgia(7,9)",13295,420.9
+"Sauk County, Wisconsin(6,10)",55111,420.9
+"Richland County, Wisconsin(6,10)",55103,420.9
+"Matagorda County, Texas(6,10)",48321,420.8
+"Washington County, Virginia(6,10)",51191,420.8
+"Adams County, Colorado(6,10)",8001,420.8
+"Daviess County, Indiana(6,10)",18027,420.7
+"Luna County, New Mexico(7,8)",35029,420.6
+"Charles County, Maryland(6,10)",24017,420.5
+"Bonneville County, Idaho(6,10)",16019,420.4
+"Jones County, Texas(6,10)",48253,420.3
+"Wagoner County, Oklahoma(6,10)",40145,420.3
+"Plumas County, California(7,9)",6063,420.3
+"Madera County, California(7,9)",6039,420.3
+"Beaverhead County, Montana(6,10)",30001,420.2
+"Adair County, Missouri(6,10)",29001,420.1
+"Missoula County, Montana(6,10)",30063,420.1
+"Izard County, Arkansas(6,10)",5065,420
+"Green County, Wisconsin(6,10)",55045,420
+"Santa Clara County, California(7,9)",6085,420
+"Montgomery County, Indiana(6,10)",18107,420
+"Taylor County, Texas(6,10)",48441,419.8
+"Scotts Bluff County, Nebraska(6,10)",31157,419.7
+"Barry County, Missouri(6,10)",29009,419.6
+"Harmon County, Oklahoma(6,10)",40057,419.5
+"Kern County, California(7,9)",6029,419.5
+"Robertson County, Texas(6,10)",48395,419.5
+"Neshoba County, Mississippi(6,10)",28099,419.5
+"Douglas County, Oregon(6,10)",41019,419.4
+"Garden County, Nebraska(6,10)",31069,419.3
+"Bath County, Virginia(6,10)",51017,419.3
+"Alger County, Michigan(6,10)",26003,419.3 #  
+"Burnet County, Texas(6,10)",48053,419.3
+"Brunswick County, North Carolina(6,10)",37019,419.2
+"Bulloch County, Georgia(7,9)",13031,418.9
+"Lane County, Oregon(6,10)",41039,418.7
+"Coffee County, Georgia(7,9)",13069,418.6
+"Orange County, California(7,9)",6059,418.6
+"Fisher County, Texas(6,10)",48151,418.6
+"Maui County, Hawaii(7,9)",15009,418.3
+"Pittsburg County, Oklahoma(6,10)",40121,418.2
+"Howard County, Maryland(6,10)",24027,418.1
+"Iron County, Utah(7,8)",49021,418
+"Clarke County, Virginia(6,10)",51043,417.9
+"Weber County, Utah(7,8)",49057,417.9
+"Grant County, Washington(6,10)",53025,417.9
+"Ionia County, Michigan(6,10)",26067,417.8 #  
+"Wayne County, Ohio(6,10)",39169,417.8
+"Christian County, Missouri(6,10)",29043,417.7
+"Howell County, Missouri(6,10)",29091,417.6
+"Polk County, Nebraska(6,10)",31143,417.6
+"Columbus County, North Carolina(6,10)",37047,417.5
+"Sevier County, Utah(7,8)",49041,417.4
+"Camden County, North Carolina(6,10)",37029,417.4
+"Missaukee County, Michigan(6,10)",26113,417.3 #  
+"Valdez-Cordova Census Area, Alaska(6,10)",2261,417.3
+"Hancock County, Kentucky(7,9)",21091,417.3
+"Broomfield County, Colorado(6,10)",8014,417.3
+"Salt Lake County, Utah(7,8)",49035,417.3
+"Jack County, Texas(6,10)",48237,417.2
+"Garrett County, Maryland(6,10)",24023,417.1
+"Vernon County, Missouri(6,10)",29217,417
+"Wood County, Texas(6,10)",48499,417
+"Harris County, Georgia(7,9)",13145,417
+"Noble County, Indiana(6,10)",18113,416.9
+"Clear Creek County, Colorado(6,10)",8019,416.9
+"Platte County, Wyoming(6,10)",56031,416.9
+"Adair County, Oklahoma(6,10)",40001,416.8
+"Alamosa County, Colorado(6,10)",8003,416.8
+"Grady County, Oklahoma(6,10)",40051,416.7
+"Big Horn County, Wyoming(6,10)",56003,416.6
+"Kodiak Island Borough, Alaska(6,10)",2150,416.6
+"Gallatin County, Montana(6,10)",30031,416.6
+"Sully County, South Dakota(6,10)",46119,416.6
+"Hardin County, Illinois(6,10)",17069,416.4
+"Madison County, North Carolina(6,10)",37115,416.2
+"Crawford County, Michigan(6,10)",26039,416.1 #  
+"Merced County, California(7,9)",6047,415.9
+"Vernon County, Wisconsin(6,10)",55123,415.9
+"Hall County, Texas(6,10)",48191,415.8
+"Marshall County, South Dakota(6,10)",46091,415.7
+"George County, Mississippi(6,10)",28039,415.7
+"Whitfield County, Georgia(7,9)",13313,415.7
+"Bastrop County, Texas(6,10)",48021,415.6
+"Ellis County, Oklahoma(6,10)",40045,415.5
+"La Plata County, Colorado(6,10)",8067,415.5
+"Hampshire County, Massachusetts(6,10)",25015,415.4
+"Brookings County, South Dakota(6,10)",46011,415.4
+"Johnston County, Oklahoma(6,10)",40069,415.2
+"Beckham County, Oklahoma(6,10)",40009,415.1
+"Tippah County, Mississippi(6,10)",28139,415.1
+"Columbia County, Arkansas(6,10)",5027,414.9
+"Mesa County, Colorado(6,10)",8077,414.8
+"Benton County, Oregon(6,10)",41003,414.8
+"Presque Isle County, Michigan(6,10)",26141,414.7 #  
+"Johnson County, Tennessee(6,10)",47091,414.7
+"Chippewa County, Michigan(6,10)",26033,414.6 #  
+"St. Lucie County, Florida(6,10)",12111,414.6
+"Riverside County, California(7,9)",6065,414.5
+"Portage County, Wisconsin(6,10)",55097,414.5
+"Dinwiddie County, Virginia(6,10)",51053,414.5
+"Benton County, Indiana(6,10)",18007,414.4
+"Carroll County, Indiana(6,10)",18015,414.4
+"Phillips County, Colorado(6,10)",8095,414.3
+"Todd County, South Dakota(6,10)",46121,414.3
+"Lavaca County, Texas(6,10)",48285,414.2
+"Greene County, Arkansas(6,10)",5055,414.1
+"Watauga County, North Carolina(6,10)",37189,414
+"Gillespie County, Texas(6,10)",48171,414
+"Franklin County, Massachusetts(6,10)",25011,413.9
+"Calaveras County, California(7,9)",6009,413.9
+"Lake County, Tennessee(6,10)",47095,413.7
+"Highlands County, Florida(6,10)",12055,413.7
+"Monterey County, California(7,9)",6053,413.6
+"Polk County, Missouri(6,10)",29167,413.5
+"Mineral County, Colorado(6,10)",8079,413.5
+"Eaton County, Michigan(6,10)",26045,413.5 #  
+"Alameda County, California(7,8)",6001,413.4
+"Bristol Bay Borough, Alaska(6,10)",2060,413.4
+"Haines Borough, Alaska(6,10)",2100,413.3
+"Ottawa County, Oklahoma(6,10)",40115,413.3
+"Franklin County, Texas(6,10)",48159,413.3
+"San Juan County, Washington(7,8)",53055,413.3
+"Cass County, Indiana(6,10)",18017,412.9
+"Schleicher County, Texas(6,10)",48413,412.8
+"Quay County, New Mexico(7,8)",35037,412.7
+"Halifax County with South Boston City, Virginia(6,10)",51083,412.7
+"Taylor County, Wisconsin(6,10)",55119,412.7
+"Charlotte County, Florida(6,10)",12015,412.7
+"Johnson County, Wyoming(6,10)",56019,412.7
+"Wells County, Indiana(6,10)",18179,412.6
+"Fresno County, California(7,9)",6019,412.6
+"Williams County, Ohio(6,10)",39171,412.3
+"Barron County, Wisconsin(6,10)",55005,412.1
+"Yoakum County, Texas(6,10)",48501,412.1
+"Pike County, Indiana(6,10)",18125,412.1
+"Caldwell County, Texas(6,10)",48055,412.1
+"Franklin County, Florida(6,10)",12037,412
+"Lawrence County, Missouri(6,10)",29109,412
+"Hamilton County, Nebraska(6,10)",31081,411.9
+"Lampasas County, Texas(6,10)",48281,411.8
+"Potter County, South Dakota(6,10)",46107,411.7
+"Hemphill County, Texas(6,10)",48211,411.7
+"Carbon County, Montana(6,10)",30009,411.7
+"Jeff Davis County, Georgia(7,9)",13161,411.6
+"Kittitas County, Washington(6,10)",53037,411.6
+"Keith County, Nebraska(6,10)",31101,411.5
+"Brantley County, Georgia(7,9)",13025,411.4
+"Collin County, Texas(6,10)",48085,411.3
+"Park County, Wyoming(6,10)",56029,411.3
+"Kerr County, Texas(6,10)",48265,411.2
+"Yakima County, Washington(6,10)",53077,411
+"Comal County, Texas(6,10)",48091,410.9
+"Duplin County, North Carolina(6,10)",37061,410.9
+"Tripp County, South Dakota(6,10)",46123,410.9
+"Elbert County, Colorado(6,10)",8039,410.8
+"Valley County, Idaho(6,10)",16085,410.8
+"Sarasota County, Florida(6,10)",12115,410.8
+"Hardeman County, Texas(6,10)",48197,410.4
+"Freestone County, Texas(6,10)",48161,410.4
+"Prince Edward County, Virginia(6,10)",51147,410.4
+"Fannin County, Texas(6,10)",48147,410.4
+"Henderson County, Illinois(6,10)",17071,410.3
+"Otoe County, Nebraska(6,10)",31131,410.1
+"Panola County, Texas(6,10)",48365,410
+"Scott County, Arkansas(6,10)",5127,410
+"Boulder County, Colorado(6,10)",8013,409.9
+"Hopkins County, Texas(6,10)",48223,409.9
+"Martin County, Florida(6,10)",12085,409.8
+"Columbia County, Georgia(7,9)",13073,409.8
+"Robeson County, North Carolina(6,10)",37155,409.6
+"Jenkins County, Georgia(7,9)",13165,409.5
+"Kings County, California(7,9)",6031,409.3
+"Fremont County, Wyoming(6,10)",56013,409.3
+"Dillingham Census Area, Alaska(6,10)",2070,409.2
+"Moniteau County, Missouri(6,10)",29135,409.2
+"Phelps County, Nebraska(6,10)",31137,409.2
+"Walton County, Florida(6,10)",12131,409.2
+"Jackson County, Texas(6,10)",48239,409.1
+"Carter County, Tennessee(6,10)",47019,409
+"Dawson County, Nebraska(6,10)",31047,409
+"Crisp County, Georgia(7,9)",13081,408.9
+"Augusta County, Virginia(6,10)",51015,408.9
+"Moore County, Tennessee(6,10)",47127,408.9
+"Jasper County, South Carolina(6,10)",45053,408.6
+"Modoc County, California(7,9)",6049,408.6
+"Humboldt County, Iowa(7,8)",19091,408.5
+"Stone County, Arkansas(6,10)",5137,408.4
+"Inyo County, California(7,9)",6027,408.4
+"Delaware County, Oklahoma(6,10)",40041,408.4
+"Washington County, Utah(7,8)",49053,408.4
+"Alcona County, Michigan(6,10)",26001,408.2 #  
+"Meade County, South Dakota(6,10)",46093,408.2
+"Gilmer County, Georgia(7,9)",13123,408.2
+"Dyer County, Tennessee(6,10)",47045,408
+"Morgan County, Colorado(6,10)",8087,408
+"Miami-Dade County, Florida(6,10)",12086,408
+"Brooks County, Texas(6,10)",48047,408
+"Nevada County, Arkansas(6,10)",5099,407.9
+"Decatur County, Georgia(7,9)",13087,407.8
+"Stephenson County, Illinois(6,10)",17177,407.6
+"Shenandoah County, Virginia(6,10)",51171,407.6
+"Osceola County, Florida(6,10)",12097,407.5
+"Moore County, Texas(6,10)",48341,407.5
+"Rio Blanco County, Colorado(6,10)",8103,407.4
+"Chester County, Tennessee(6,10)",47023,407.4
+"Holt County, Nebraska(6,10)",31089,407.3
+"Dundy County, Nebraska(6,10)",31057,406.9
+"Lee County, Alabama(6,10)",1081,406.9
+"Cavalier County, North Dakota(6,10)",38019,406.8
+"Iosco County, Michigan(6,10)",26069,406.2 #  
+"Steuben County, Indiana(6,10)",18151,406.2
+"Los Alamos County, New Mexico(7,8)",35028,406.2
+"Graham County, North Carolina(6,10)",37075,405.8
+"Clay County, Georgia(7,9)",13061,405.8
+"Southampton County, Virginia(6,10)",51175,405.7
+"Bedford County, Virginia(6,10)",51019,405.6
+"Los Angeles County, California(7,9)",6037,405.5
+"Mercer County, Missouri(6,10)",29129,405.5
+"Brown County, South Dakota(6,10)",46013,405.4
+"Prowers County, Colorado(6,10)",8099,405.4
+"Minidoka County, Idaho(6,10)",16067,405.3
+"Ware County, Georgia(7,9)",13299,405.3
+"LaGrange County, Indiana(6,10)",18087,405.3
+"Adams County, North Dakota(6,10)",38001,405.2
+"Randolph County, West Virginia(6,10)",54083,405.2
+"Osage County, Oklahoma(6,10)",40113,405.2
+"Wells County, North Dakota(6,10)",38103,405.2
+"Leon County, Texas(6,10)",48289,405
+"Shelby County, Ohio(6,10)",39149,405
+"Lincoln County, South Dakota(6,10)",46083,404.9
+"Treutlen County, Georgia(7,9)",13283,404.5
+"Greeley County, Nebraska(6,10)",31077,404.4
+"Socorro County, New Mexico(7,8)",35053,404.4
+"St. Joseph County, Michigan(6,10)",26149,404.4 #  
+"Oscoda County, Michigan(6,10)",26135,404.3 #  
+"Ravalli County, Montana(6,10)",30081,404.2
+"Grand County, Utah(7,8)",49019,404.1
+"Bernalillo County, New Mexico(7,8)",35001,404.1
+"Lunenburg County, Virginia(6,10)",51111,404.1
+"Ottawa County, Michigan(6,10)",26139,404.1 #  
+"Hyde County, South Dakota(6,10)",46069,404
+"Pacific County, Washington(6,10)",53049,404
+"Greene County, Virginia(6,10)",51079,404
+"Chicot County, Arkansas(6,10)",5017,403.9
+"Moffat County, Colorado(6,10)",8081,403.9
+"Yankton County, South Dakota(6,10)",46135,403.8
+"Giles County, Virginia(6,10)",51071,403.8
+"Walsh County, North Dakota(6,10)",38099,403.7
+"Sweetwater County, Wyoming(6,10)",56037,403.5
+"Moody County, South Dakota(6,10)",46101,403.5
+"Renville County, North Dakota(6,10)",38075,403.5
+"Wichita County, Texas(6,10)",48485,403.5
+"Gadsden County, Florida(6,10)",12039,403.4
+"Hamlin County, South Dakota(6,10)",46057,403.4
+"Callahan County, Texas(6,10)",48059,403.3
+"Shelby County, Texas(6,10)",48419,403.3
+"Mississippi County, Arkansas(6,10)",5093,403.3
+"Atkinson County, Georgia(7,9)",13003,403.2
+"Williams County, North Dakota(6,10)",38105,403.1
+"Sheridan County, Montana(6,10)",30091,403.1
+"Madison County, Texas(6,10)",48313,403
+"Golden Valley County, North Dakota(6,10)",38033,403
+"Wood County, Ohio(6,10)",39173,403
+"Williamson County, Texas(6,10)",48491,402.9
+"Ogemaw County, Michigan(6,10)",26129,402.9 #  
+"Hawaii County, Hawaii(7,9)",15001,402.7
+"Teton County, Wyoming(6,10)",56039,402.7
+"Motley County, Texas(6,10)",48345,402.6
+"Jefferson County, Idaho(6,10)",16051,402.5
+"Lincoln County, Arkansas(6,10)",5079,402.4
+"Deuel County, Nebraska(6,10)",31049,402.3
+"Valencia County, New Mexico(7,8)",35061,402.3
+"Park County, Colorado(6,10)",8093,402.1
+"Walthall County, Mississippi(6,10)",28147,402.1
+"Deaf Smith County, Texas(6,10)",48117,402
+"Winchester City, Virginia(6,10)",51840,401.9
+"Prince Georges County, Maryland(6,10)",24033,401.9
+"Clark County, Arkansas(6,10)",5019,401.9
+"Pike County, Arkansas(6,10)",5109,401.8
+"Alleghany Cnty and Clifton Forge Cty, Virginia(6,10)",51005,401.8
+"Liberty County, Texas(6,10)",48291,401.7
+"Botetourt County, Virginia(6,10)",51023,401.6
+"Kimball County, Nebraska(6,10)",31105,401.5
+"Carroll County, Mississippi(6,10)",28015,401.5
+"Maricopa County, Arizona(6,10)",4013,401.4
+"Andrews County, Texas(6,10)",48003,401.3
+"Rappahannock County, Virginia(6,10)",51157,401.1
+"Benton County, Arkansas(6,10)",5007,401
+"Taylor County, West Virginia(6,10)",54091,400.9
+"Hale County, Texas(6,10)",48189,400.8
+"Allendale County, South Carolina(6,10)",45005,400.8
+"Cedar County, Missouri(6,10)",29039,400.7
+"Sherman County, Nebraska(6,10)",31163,400.6
+"Logan County, Colorado(6,10)",8075,400.5
+"Roanoke County, Virginia(6,10)",51161,400.5
+"Currituck County, North Carolina(6,10)",37053,400.5
+"Montgomery County, Arkansas(6,10)",5097,400.3
+"Grant County, Oregon(6,10)",41023,400.3
+"Colusa County, California(7,9)",6011,400.2
+"Gilpin County, Colorado(6,10)",8047,400.2
+"Nueces County, Texas(6,10)",48355,400.2
+"Rockingham County, Virginia(6,10)",51165,400.2
+"Lee County, Florida(6,10)",12071,400.1
+"Otero County, Colorado(6,10)",8089,400
+"Perquimans County, North Carolina(6,10)",37143,400
+"Rusk County, Texas(6,10)",48401,399.9
+"Edgefield County, South Carolina(6,10)",45037,399.8
+"Hays County, Texas(6,10)",48209,399.8
+"Butler County, Nebraska(6,10)",31023,399.5
+"Hudson County, New Jersey(7,8)",34017,399.5
+"DeKalb County, Alabama(6,10)",1049,399.4
+"Camden County, Missouri(6,10)",29029,399.4
+"Bexar County, Texas(6,10)",48029,399.2
+"Burnett County, Wisconsin(6,10)",55013,399.2
+"Manatee County, Florida(6,10)",12081,399.1
+"Bennett County, South Dakota(6,10)",46007,399
+"Pittsylvania County, Virginia(6,10)",51143,399
+"Fort Bend County, Texas(6,10)",48157,399
+"Garfield County, Utah(7,8)",49017,399
+"Skamania County, Washington(6,10)",53059,398.9
+"Kane County, Utah(7,8)",49025,398.9
+"Howard County, Missouri(6,10)",29089,398.7
+"Nemaha County, Nebraska(6,10)",31127,398.7
+"Wayne County, Iowa(7,8)",19185,398.5
+"Choctaw County, Alabama(6,10)",1023,398.5
+"Alexander County, Illinois(6,10)",17003,398.4
+"Austin County, Texas(6,10)",48015,398.2
+"Tillman County, Oklahoma(6,10)",40141,398.1
+"Hamilton County, Indiana(6,10)",18057,397.9
+"Albany County, Wyoming(6,10)",56001,397.6
+"Catoosa County, Georgia(7,9)",13047,397.6
+"Newton County, Arkansas(6,10)",5101,397.4
+"Lake County, Oregon(6,10)",41037,397.2
+"Weston County, Wyoming(6,10)",56045,397.1
+"Warren County, Georgia(7)",13301,397.1
+"Transylvania County, North Carolina(6,10)",37175,396.8
+"Franklin County, Indiana(6,10)",18047,396.8
+"Mariposa County, California(7,9)",6043,396.8
+"Barnwell County, South Carolina(6,10)",45011,396.7
+"Braxton County, West Virginia(6,10)",54007,396.6
+"Polk County, Arkansas(6,10)",5113,396.4
+"Franklin County, Arkansas(6,10)",5047,396.3
+"Hillsdale County, Michigan(6,10)",26059,396.3 #  
+"Montgomery County, Virginia(6,10)",51121,396.2
+"Delta County, Colorado(6,10)",8029,396.2
+"Dunn County, Wisconsin(6,10)",55033,396.1
+"Ontonagon County, Michigan(6,10)",26131,396 #  
+"Dakota County, Nebraska(6,10)",31043,396
+"Latah County, Idaho(6,10)",16057,395.9
+"Sutter County, California(7,9)",6101,395.8
+"Llano County, Texas(6,10)",48299,395.8
+"Graham County, Arizona(6,10)",4009,395.7
+"Nance County, Nebraska(6,10)",31125,395.7
+"Baraga County, Michigan(6,10)",26013,395.4 #  
+"Sandoval County, New Mexico(7,8)",35043,395.4
+"Johnson County, Arkansas(6,10)",5071,395.3
+"Larimer County, Colorado(6,10)",8069,395.3
+"Lake County, Michigan(6,10)",26085,395.3 #  
+"Cherry County, Nebraska(6,10)",31031,395.1
+"Deuel County, South Dakota(6,10)",46039,395
+"Utah County, Utah(7,8)",49049,394.9
+"Monroe County, Florida(6,10)",12087,394.6
+"Colfax County, Nebraska(6,10)",31037,394.5
+"Coleman County, Texas(6,10)",48083,394.5
+"Shannon County, South Dakota(6,10)",46113,394.5
+"Boundary County, Idaho(6,10)",16021,394.4
+"Anderson County, Texas(6,10)",48001,394.3
+"Reynolds County, Missouri(6,10)",29179,394.3
+"Fulton County, Arkansas(6,10)",5049,394.1
+"Colorado County, Texas(6,10)",48089,393.8
+"Lincoln County, Oklahoma(6,10)",40081,393.5
+"Juniata County, Pennsylvania(6,10)",42067,393.5
+"Clay County, South Dakota(6,10)",46027,393.5
+"Madison County, Arkansas(6,10)",5087,393.4
+"Bleckley County, Georgia(7,9)",13023,393.3
+"Bosque County, Texas(6,10)",48035,393.2
+"Curry County, Oregon(6,10)",41015,393.2
+"Newaygo County, Michigan(6,10)",26123,393.2 #  
+"Delta County, Michigan(6,10)",26041,393.1 #  
+"Travis County, Texas(6,10)",48453,393.1
+"Otero County, New Mexico(7,8)",35035,393
+"Montgomery County, Maryland(6,10)",24031,392.9
+"DeSoto County, Florida(6,10)",12027,392.9
+"Little River County, Arkansas(6,10)",5081,392.5
+"Pope County, Illinois(6,10)",17151,392.3
+"Juab County, Utah(7,8)",49023,392.3
+"Chaffee County, Colorado(6,10)",8015,392.2
+"Kauai County, Hawaii(7,9)",15007,392.2
+"Goshen County, Wyoming(6,10)",56015,392.1
+"Wayne County, Nebraska(6,10)",31179,392
+"Crenshaw County, Alabama(6,10)",1041,391.8
+"Nowata County, Oklahoma(6,10)",40105,391.8
+"Walworth County, South Dakota(6,10)",46129,391.7
+"Texas County, Oklahoma(6,10)",40139,391.6
+"Tulare County, California(7,9)",6107,391.5
+"Liberty County, Florida(6,10)",12077,391.5
+"Bon Homme County, South Dakota(6,10)",46009,391.4
+"Eddy County, New Mexico(7,8)",35015,391.3
+"Carroll County, Virginia(6,10)",51035,390.6
+"Pulaski County, Virginia(6,10)",51155,390.6
+"Whitman County, Washington(6,10)",53075,390.5
+"Leon County, Florida(6,10)",12073,390.5
+"Poweshiek County, Iowa(7,8)",19157,390.3
+"Buckingham County, Virginia(6,10)",51029,390.1
+"Hockley County, Texas(6,10)",48219,390.1
+"Juneau Borough, Alaska(6,10)",2110,390.1
+"Crittenden County, Arkansas(6,10)",5035,389.9
+"Kit Carson County, Colorado(6,10)",8063,389.8
+"Collingsworth County, Texas(6,10)",48087,389.8
+"Craig County, Virginia(6,10)",51045,389.7
+"Weld County, Colorado(6,10)",8123,389.5
+"Yavapai County, Arizona(6,10)",4025,389.4
+"Ozark County, Missouri(6,10)",29153,389.4
+"Archuleta County, Colorado(6,10)",8007,389.4
+"Burleson County, Texas(6,10)",48051,389.4
+"Wise County, Texas(6,10)",48497,389.3
+"York County, Virginia(6,10)",51199,389.3
+"York County, Nebraska(6,10)",31185,389.2
+"Crowley County, Colorado(6,10)",8025,389.1
+"Smyth County, Virginia(6,10)",51173,389.1
+"Tensas Parish, Louisiana(7,9)",22107,389
+"Bandera County, Texas(6,10)",48019,388.9
+"Spink County, South Dakota(6,10)",46115,388.8
+"Midland County, Texas(6,10)",48329,388.7
+"Appling County, Georgia(7,9)",13001,388.5
+"Sevier County, Arkansas(6,10)",5133,388.4
+"Erath County, Texas(6,10)",48143,388.1
+"Imperial County, California(7,9)",6025,387.9
+"Parmer County, Texas(6,10)",48369,387.8
+"Brewster County, Texas(6,10)",48043,387.7
+"Atascosa County, Texas(6,10)",48013,387.6
+"Pepin County, Wisconsin(6,10)",55091,387.6
+"Haskell County, Texas(6,10)",48207,387.4
+"Allegan County, Michigan(6,10)",26005,387.2 #  
+"Craighead County, Arkansas(6,10)",5031,387.1
+"Henry County, Ohio(6,10)",39069,386.3
+"Donley County, Texas(6,10)",48129,386.3
+"Fayette County, Texas(6,10)",48149,386.3
+"Buffalo County, Wisconsin(6,10)",55011,385.7
+"Power County, Idaho(6,10)",16077,385.5
+"Grant County, North Dakota(6,10)",38037,385.4
+"Titus County, Texas(6,10)",48449,385.4
+"Skagway Hoonah Angoon Census Area, Alaska(6,10)",2232,385.3
+"Texas County, Missouri(6,10)",29215,385.3
+"Kendall County, Texas(6,10)",48259,385.2
+"Jim Hogg County, Texas(6,10)",48247,385.1
+"Boyd County, Nebraska(6,10)",31015,384.9
+"Pocahontas County, West Virginia(6,10)",54075,384.8
+"Johnson County, Georgia(7,9)",13167,384.8
+"Campbell County, Virginia(6,10)",51031,384.7
+"Aiken County, South Carolina(6,10)",45003,384.5
+"Tyler County, Texas(6,10)",48457,384.2
+"Dade County, Missouri(6,10)",29057,383.9
+"Gilchrist County, Florida(6,10)",12041,383.8
+"Sanpete County, Utah(7,8)",49039,383.8
+"Lawrence County, South Dakota(6,10)",46081,383.6
+"Fremont County, Idaho(6,10)",16043,383.5
+"King and Queen County, Virginia(6,10)",51097,383.4
+"Lincoln County, Georgia(7,9)",13181,383.2
+"Winkler County, Texas(6,10)",48495,383
+"Saluda County, South Carolina(6,10)",45081,383
+"Shackelford County, Texas(6,10)",48417,382.6
+"Lee County, Arkansas(6,10)",5077,382.4
+"Montrose County, Colorado(6,10)",8085,382.1
+"Barton County, Missouri(6,10)",29011,382.1
+"Wheatland County, Montana(6,10)",30107,382
+"Delta County, Texas(6,10)",48119,382
+"Calhoun County, Florida(6,10)",12013,381.9
+"Pendleton County, West Virginia(6,10)",54071,381.8
+"Fairfax County, Virginia(6,10)",51059,381.8
+"Washington County, Colorado(6,10)",8121,381.7
+"Pembina County, North Dakota(6,10)",38067,381.4
+"Taylor County, Georgia(7,9)",13269,381.3
+"Bladen County, North Carolina(6,10)",37017,381.2
+"Dona Ana County, New Mexico(7,8)",35013,381
+"Shannon County, Missouri(6,10)",29203,381
+"El Paso County, Texas(6,10)",48141,380.9
+"Blaine County, Idaho(6,10)",16013,380.7
+"Pemiscot County, Missouri(6,10)",29155,380.6
+"Hempstead County, Arkansas(6,10)",5057,380.6
+"Morgan County, Utah(7,8)",49029,380.5
+"Carroll County, Arkansas(6,10)",5015,380.4
+"Lafayette County, Florida(6,10)",12067,380.1
+"Garfield County, Colorado(6,10)",8045,379.6
+"Rio Grande County, Colorado(6,10)",8105,379.5
+"Jefferson County, Nebraska(6,10)",31095,379.5
+"Corson County, South Dakota(6,10)",46031,379.3
+"Stone County, Missouri(6,10)",29209,379.3
+"Pima County, Arizona(6,10)",4019,379.1
+"Madison Parish, Louisiana(7,9)",22065,379
+"Bacon County, Georgia(7,9)",13005,378.7
+"Madison County, Montana(6,10)",30057,378.7
+"Bannock County, Idaho(6,10)",16005,378.7
+"Woodward County, Oklahoma(6,10)",40153,378.2
+"Box Elder County, Utah(7,8)",49003,377.6
+"Colfax County, New Mexico(7,8)",35007,377.4
+"Summers County, West Virginia(6,10)",54089,377.1
+"Castro County, Texas(6,10)",48069,376.9
+"Kimble County, Texas(6,10)",48267,376.8
+"Floyd County, Texas(6,10)",48153,376.7
+"Cotton County, Oklahoma(6,10)",40033,376.6
+"Branch County, Michigan(6,10)",26023,376.6 #  
+"Emporia City, Virginia(6,10)",51595,376.4
+"Tazewell County, Virginia(6,10)",51185,376.4
+"Smith County, Mississippi(6,10)",28129,376.2
+"Madison County, Idaho(6,10)",16065,376.2
+"Teton County, Idaho(6,10)",16081,376.2
+"Cache County, Utah(7,8)",49005,376.1
+"St. Francis County, Arkansas(6,10)",5123,375.9
+"Chaves County, New Mexico(7,8)",35005,375.8
+"Sequoyah County, Oklahoma(6,10)",40135,375.8
+"Waller County, Texas(6,10)",48473,375.6
+"Catron County, New Mexico(7,8)",35003,375.5
+"Idaho County, Idaho(6,10)",16049,375.5
+"Cibola County, New Mexico(7,8)",35006,375.5
+"Briscoe County, Texas(6,10)",48045,375.3
+"Wheeler County, Oregon(6,10)",41069,375
+"Falls County, Texas(6,10)",48145,374.9
+"Hardy County, West Virginia(6,10)",54031,374.9
+"Randolph County, Georgia(7,9)",13243,374.8
+"Sheridan County, North Dakota(6,10)",38083,374.8
+"Latimer County, Oklahoma(6,10)",40077,374.7
+"Cass County, Texas(6,10)",48067,374.4
+"Santa Fe County, New Mexico(7,8)",35049,374.3
+"Swisher County, Texas(6,10)",48437,374.1
+"Kiowa County, Colorado(6,10)",8061,373.8
+"Houghton County, Michigan(6,10)",26061,373.8 #  
+"Cheyenne County, Colorado(6,10)",8017,373.7
+"Prince William County, Virginia(6,10)",51153,373.7
+"Lamb County, Texas(6,10)",48279,373.6
+"Northwest Arctic Borough, Alaska(6,10)",2188,373.5
+"Wibaux County, Montana(6,10)",30109,373.3
+"Marion County, Georgia(7,9)",13197,373.2
+"Routt County, Colorado(6,10)",8107,373.1
+"Leelanau County, Michigan(6,10)",26089,372.9 #  
+"Southeast Fairbanks Census Area, Alaska(6,10)",2240,372.9
+"Atchison County, Missouri(6,10)",29005,372.9
+"Albemarle County, Virginia(6,10)",51003,372.9
+"Lincoln County, Colorado(6,10)",8073,372.9
+"Blanco County, Texas(6,10)",48031,372.8
+"St. Clair County, Missouri(6,10)",29185,372.7
+"Floyd County, Virginia(6,10)",51063,372.4
+"Candler County, Georgia(7,9)",13043,372.4
+"Houston County, Texas(6,10)",48225,372.1
+"Las Animas County, Colorado(6,10)",8071,372
+"Coal County, Oklahoma(6,10)",40029,372
+"Wheeler County, Nebraska(6,10)",31183,371.7
+"Asotin County, Washington(6,10)",53003,371.3
+"Liberty County, Montana(6,10)",30051,371.2
+"Monroe County, Michigan(6,10)",26115,371 #  
+"Gates County, North Carolina(6,10)",37073,370.9
+"Cuming County, Nebraska(6,10)",31039,370.9
+"Lucas County, Ohio(6,10)",39095,370.7
+"LaMoure County, North Dakota(6,10)",38045,370.5
+"Oceana County, Michigan(6,10)",26127,370.2 #  
+"Hendry County, Florida(6,10)",12051,370.1
+"Dawes County, Nebraska(6,10)",31045,370
+"Bayfield County, Wisconsin(6,10)",55007,369.9
+"Ralls County, Missouri(6,10)",29173,369.8
+"Arlington County, Virginia(6,10)",51013,369.7
+"Baca County, Colorado(6,10)",8009,369.7
+"Gonzales County, Texas(6,10)",48177,369.7
+"San Augustine County, Texas(6,10)",48405,369.6
+"Fauquier County, Virginia(6,10)",51061,369.4
+"Mills County, Texas(6,10)",48333,369.1
+"Harney County, Oregon(6,10)",41025,368.7
+"Schuyler County, Missouri(6,10)",29197,368.6
+"Sanilac County, Michigan(6,10)",26151,368.5 #  
+"Wilson County, Texas(6,10)",48493,368.3
+"Holt County, Missouri(6,10)",29087,368.2
+"Terrell County, Texas(6,10)",48443,368.2
+"Cameron County, Texas(6,10)",48061,368.1
+"Jefferson County, Florida(6,10)",12065,367.9
+"Wise County, Virginia(6,10)",51195,367.3
+"Val Verde County, Texas(6,10)",48465,367.2
+"Crane County, Texas(6,10)",48103,367
+"Wayne County, Utah(7,8)",49055,366.9
+"Camas County, Idaho(6,10)",16025,366.5
+"Long County, Georgia(7,9)",13183,366.5
+"Grant County, New Mexico(7,8)",35017,366.5
+"Luce County, Michigan(6,10)",26095,366 #  
+"Lincoln County, Wyoming(6,10)",56023,365.9
+"Keya Paha County, Nebraska(6,10)",31103,365.8
+"Lassen County, California(7,9)",6035,365.7
+"Uintah County, Utah(7,8)",49047,365.5
+"Roberts County, South Dakota(6,10)",46109,365.5
+"Lee County, Texas(6,10)",48287,365.5
+"Russell County, Virginia(6,10)",51167,365.4
+"Hickory County, Missouri(6,10)",29085,365.2
+"Loudoun County, Virginia(6,10)",51107,364.9
+"Ste. Genevieve County, Missouri(6,10)",29186,364.9
+"Calhoun County, Arkansas(6,10)",5013,364.5
+"Greenlee County, Arizona(6,10)",4011,364.5
+"Custer County, South Dakota(6,10)",46033,364.5
+"Manassas City, Virginia(6,10)",51683,364.1
+"Lafayette County, Arkansas(6,10)",5073,364.1
+"Sedgwick County, Colorado(6,10)",8115,364
+"Bear Lake County, Idaho(6,10)",16007,363.9
+"Lincoln County, New Mexico(7,8)",35027,363.9
+"Roger Mills County, Oklahoma(6,10)",40129,362.3
+"Le Flore County, Oklahoma(6,10)",40079,362.3
+"Millard County, Utah(7,8)",49027,361.5
+"Guadalupe County, New Mexico(7,8)",35019,361.2
+"Crockett County, Texas(6,10)",48105,360.8
+"Roosevelt County, New Mexico(7,8)",35041,360.7
+"Logan County, North Dakota(6,10)",38047,360.6
+"Beaver County, Oklahoma(6,10)",40007,360.4
+"Franklin County, Idaho(6,10)",16041,360
+"Reagan County, Texas(6,10)",48383,359.8
+"Fulton County, Ohio(6,10)",39051,359.6
+"Uinta County, Wyoming(6,10)",56041,359.3
+"Denali, Alaska(6,10)",2068,359.1
+"Mora County, New Mexico(7,8)",35033,359
+"Dickinson County, Michigan(6,10)",26043,358.9 #  
+"Broadwater County, Montana(6,10)",30007,358.7
+"San Miguel County, Colorado(6,10)",8113,358.5
+"Jefferson County, Oregon(6,10)",41031,358.5
+"Brown County, Nebraska(6,10)",31017,358.2
+"Ferry County, Washington(6,10)",53019,358.2
+"Schley County, Georgia(7,9)",13249,358
+"Lake County, Colorado(6,10)",8065,357.5
+"Pierce County, North Dakota(6,10)",38069,357.4
+"Lea County, New Mexico(7,8)",35025,357.1
+"Hidalgo County, New Mexico(7,8)",35023,357
+"Dickenson County, Virginia(6,10)",51051,356.4
+"Washington County, Florida(6,10)",12133,356.3
+"Starr County, Texas(6,10)",48427,356.3
+"Grant County, West Virginia(6,10)",54023,356.3
+"Sheridan County, Nebraska(6,10)",31161,356.1
+"San Juan County, New Mexico(7,8)",35045,356.1
+"Dunn County, North Dakota(6,10)",38025,355.6
+"San Miguel County, New Mexico(7,8)",35047,355.6
+"Greene County, Mississippi(6,10)",28041,355.4
+"Stonewall County, Texas(6,10)",48433,355.4
+"Grayson County, Virginia(6,10)",51077,355.3
+"Benton County, Mississippi(6,10)",28009,355.2
+"Maverick County, Texas(6,10)",48323,355.1
+"Noble County, Ohio(6,10)",39121,355.1
+"Glades County, Florida(6,10)",12043,354.9
+"Pushmataha County, Oklahoma(6,10)",40127,354.7
+"Douglas County, Wisconsin(6,10)",55031,354.7
+"Jim Wells County, Texas(6,10)",48249,353.8
+"Jones County, South Dakota(6,10)",46075,352.8
+"Grimes County, Texas(6,10)",48185,352.5
+"Emmons County, North Dakota(6,10)",38029,352.4
+"Sublette County, Wyoming(6,10)",56035,352
+"Knox County, Texas(6,10)",48275,352
+"Rio Arriba County, New Mexico(7,8)",35039,351.8
+"McIntosh County, Georgia(7,9)",13191,351.3
+"Butte County, Idaho(6,10)",16023,351.1
+"Mason County, Michigan(6,10)",26105,350.2 #  
+"Cochise County, Arizona(6,10)",4003,350.1
+"Sutton County, Texas(6,10)",48435,350.1
+"Lincoln County, Washington(6,10)",53043,350.1
+"Valley County, Nebraska(6,10)",31175,350.1
+"Newton County, Texas(6,10)",48351,350
+"McCone County, Montana(6,10)",30055,349.8
+"Hancock County, Georgia(7)",13141,349.7
+"Klickitat County, Washington(6,10)",53039,349.7
+"Oneida County, Idaho(6,10)",16071,349.5
+"Hand County, South Dakota(6,10)",46059,348.6
+"Coconino County, Arizona(6,10)",4005,348.4
+"Granite County, Montana(6,10)",30039,348.1
+"Worth County, Missouri(6,10)",29227,347.7
+"Foard County, Texas(6,10)",48155,347.2
+"Rich County, Utah(7,8)",49033,347.2
+"Eagle County, Colorado(6,10)",8037,347.1
+"Collier County, Florida(6,10)",12021,346.3
+"Willacy County, Texas(6,10)",48489,345.6
+"Cassia County, Idaho(6,10)",16031,345.3
+"Clinton County, Michigan(6,10)",26037,345.3 #  
+"Reeves County, Texas(6,10)",48389,345.2
+"Andrew County, Missouri(6,10)",29003,344.4
+"Iron County, Michigan(6,10)",26071,344.3 #  
+"Frio County, Texas(6,10)",48163,344.1
+"Medina County, Texas(6,10)",48325,343.3
+"Elliott County, Kentucky(7,9)",21063,343.2
+"Yuma County, Arizona(6,10)",4027,343
+"Cottle County, Texas(6,10)",48101,342.6
+"Uvalde County, Texas(6,10)",48463,342
+"Steele County, North Dakota(6,10)",38091,341.9
+"Oregon County, Missouri(6,10)",29149,341.6
+"Pulaski County, Georgia(7,9)",13235,341.5
+"Bee County, Texas(6,10)",48025,341
+"Hidalgo County, Texas(6,10)",48215,341
+"Zapata County, Texas(6,10)",48505,340.9
+"Wheeler County, Georgia(7,9)",13309,340.7
+"Adams County, Washington(6,10)",53001,340.3
+"Franklin County, Nebraska(6,10)",31061,339.4
+"Gila County, Arizona(6,10)",4007,339.2
+"Patrick County, Virginia(6,10)",51141,339.1
+"Emery County, Utah(7,8)",49015,339
+"Choctaw County, Mississippi(6,10)",28019,339
+"Taos County, New Mexico(7,8)",35055,339
+"Oliver County, North Dakota(6,10)",38065,338.6
+"Bethel Census Area, Alaska(6,10)",2050,338.2
+"Rockbridge County, Virginia(6,10)",51163,338
+"Keweenaw County, Michigan(6,10)",26083,337.6 #  
+"Saguache County, Colorado(6,10)",8109,337.1
+"Dooly County, Georgia(7,9)",13093,337.1
+"Hamilton County, Florida(6,10)",12047,336.8
+"Curry County, New Mexico(7,8)",35009,336.5
+"Kidder County, North Dakota(6,10)",38043,336.1
+"San Saba County, Texas(6,10)",48411,335.8
+"Cass County, Michigan(6,10)",26027,335 #  
+"Crosby County, Texas(6,10)",48107,334.7
+"Cedar County, Nebraska(6,10)",31027,334.6
+"Bailey County, Texas(6,10)",48017,334.4
+"McDonald County, Missouri(6,10)",29119,334
+"Kent County, Texas(6,10)",48263,333.2
+"McKinley County, New Mexico(7,8)",35031,332.9
+"Webb County, Texas(6,10)",48479,332.2
+"La Paz County, Arizona(6,10)",4012,332
+"Martin County, Texas(6,10)",48317,331.3
+"Charlton County, Georgia(7,9)",13049,331.3
+"Gaines County, Texas(6,10)",48165,331.1
+"Pinal County, Arizona(6,10)",4021,330.9
+"Scott County, Virginia(6,10)",51169,330.8
+"Concho County, Texas(6,10)",48095,330.7
+"Divide County, North Dakota(6,10)",38023,330.6
+"Lee County, Virginia(6,10)",51105,330.5
+"Scotland County, Missouri(6,10)",29199,329.9
+"Dimmit County, Texas(6,10)",48127,328.3
+"Perkins County, Nebraska(6,10)",31135,327.2
+"Highland County, Virginia(6,10)",51091,327
+"Conejos County, Colorado(6,10)",8021,326.6
+"Telfair County, Georgia(7,9)",13271,326.4
+"Buchanan County, Virginia(6,10)",51027,325.8
+"Real County, Texas(6,10)",48385,325.4
+"Navajo County, Arizona(6,10)",4017,325.3
+"Gogebic County, Michigan(6,10)",26053,324.9 #  
+"Duval County, Texas(6,10)",48131,323.8
+"Pecos County, Texas(6,10)",48371,323.1
+"Bent County, Colorado(6,10)",8011,322.4
+"Polk County, Wisconsin(6,10)",55095,321.4
+"Zavala County, Texas(6,10)",48507,321
+"Mono County, California(7,9)",6051,320.8
+"Dickey County, North Dakota(6,10)",38021,320.2
+"DeKalb County, Missouri(6,10)",29063,319.3
+"Lipscomb County, Texas(6,10)",48295,318.9
+"Pitkin County, Colorado(6,10)",8097,318.5
+"Douglas County, Missouri(6,10)",29067,317.9
+"Alexandria City, Virginia(6,10)",51510,317.6
+"Live Oak County, Texas(6,10)",48297,316.6
+"Holmes County, Ohio(6,10)",39075,316.5
+"Garfield County, Montana(6,10)",30033,315.5
+"St. Croix County, Wisconsin(6,10)",55109,315.2
+"Upton County, Texas(6,10)",48461,313
+"Sierra County, California(7,9)",6091,312.8
+"Barry County, Michigan(6,10)",26015,312.7 #  
+"McMullen County, Texas(6,10)",48311,311.5
+"Grand County, Colorado(6,10)",8049,310.5
+"Menominee County, Michigan(6,10)",26109,310.1 #  
+"Florence County, Wisconsin(6,10)",55037,308.2
+"Mason County, Texas(6,10)",48319,307.6
+"Costilla County, Colorado(6,10)",8023,307.3
+"Ouray County, Colorado(6,10)",8091,307.1
+"La Salle County, Texas(6,10)",48283,307.1
+"Harding County, South Dakota(6,10)",46063,305.7
+"Carson County, Texas(6,10)",48065,305.1
+"Jackson County, Florida(6,10)",12063,304.5
+"Union County, New Mexico(7,8)",35059,303
+"Lynn County, Texas(6,10)",48305,303
+"Dickens County, Texas(6,10)",48125,300.1
+"Sitka Borough, Alaska(6,10)",2220,298.1
+"Kinney County, Texas(6,10)",48271,297.2
+"Jackson County, South Dakota(6,10)",46071,296.6
+"Santa Cruz County, Arizona(6,10)",4023,296.2
+"Newton County, Missouri(6,10)",29145,296
+"Webster County, Georgia(7,9)",13307,295.7
+"Manassas Park City, Virginia(6,10)",51685,295.4
+"Jeff Davis County, Texas(6,10)",48243,294.6
+"Garfield County, Washington(6,10)",53023,293.6
+"Madison County, Florida(6,10)",12079,293.5
+"Fairfax City, Virginia(6,10)",51600,289.2
+"Archer County, Texas(6,10)",48009,289.2
+"Maries County, Missouri(6,10)",29125,287.4
+"McPherson County, South Dakota(6,10)",46089,284.8
+"Sterling County, Texas(6,10)",48431,284.3
+"Gunnison County, Colorado(6,10)",8051,283.5
+"Hayes County, Nebraska(6,10)",31085,282.4
+"Ziebach County, South Dakota(6,10)",46137,281
+"Crook County, Wyoming(6,10)",56011,280.9
+"Jackson County, Colorado(6,10)",8057,279.8
+"Menard County, Texas(6,10)",48327,279.3
+"Campbell County, South Dakota(6,10)",46021,279
+"Pierce County, Wisconsin(6,10)",55093,278.5
+"Hartley County, Texas(6,10)",48205,275.7
+"Sherman County, Texas(6,10)",48421,275.6
+"Apache County, Arizona(6,10)",4001,269.9
+"Bristol City, Virginia(6,10)",51520,265.7
+"San Juan County, Utah(7,8)",49037,261.1
+"Edwards County, Texas(6,10)",48137,261
+"Holmes County, Florida(6,10)",12059,259.6
+"Garza County, Texas(6,10)",48169,259.5
+"Summit County, Colorado(6,10)",8117,259
+"McKenzie County, North Dakota(6,10)",38053,254.7
+"Aleutians East Borough, Alaska(6,10)",2013,234.6
+"Dolores County, Colorado(6,10)",8033,234
+"Doddridge County, West Virginia(6,10)",54017,234
+"Glasscock County, Texas(6,10)",48173,233.4
+"Daggett County, Utah(7)",49009,232.3
+"Stanton County, Nebraska(6,10)",31167,221.5
+"Hudspeth County, Texas(6,10)",48229,214.8
+"Presidio County, Texas(6,10)",48377,211.1
+"Carter County, Montana(6,10)",30011,210.9
+"Culberson County, Texas(6,10)",48109,206.5
+"Aleutians West Census Area, Alaska(6,10)",2016,201.3
+"Sioux County, Nebraska(6,10)",31165,179.8
+"Arthur County, Nebraska(6,10)",31005,* 
+"Banner County, Nebraska(6,10)",31007,* 
+"Billings County, North Dakota(6,10)",38007,* 
+"Blaine County, Nebraska(6,10)",31009,* 
+"Borden County, Texas(6,10)",48033,* 
+"Kalawao County, Hawaii(7,9)",15005,* 
+"Kenedy County, Texas(6,10)",48261,* 
+"King County, Texas(6,10)",48269,* 
+"Loving County, Texas(6,10)",48301,* 
+"McPherson County, Nebraska(6,10)",31117,* 
+"Roberts County, Texas(6,10)",48393,* 
+"Slope County, North Dakota(6,10)",38087,* 
+"Yakutat City and Borough, Alaska(6,10)",2282,* 
+"Aitkin County, Minnesota(6)",27001,_ 
+"Allen County, Kansas(6)",20001,_ 
+"Anderson County, Kansas(6)",20003,_ 
+"Anoka County, Minnesota(6)",27003,_ 
+"Atchison County, Kansas(6)",20005,_ 
+"Barber County, Kansas(6)",20007,_ 
+"Barton County, Kansas(6)",20009,_ 
+"Becker County, Minnesota(6)",27005,_ 
+"Beltrami County, Minnesota(6)",27007,_ 
+"Benton County, Minnesota(6)",27009,_ 
+"Big Stone County, Minnesota(6)",27011,_ 
+"Blue Earth County, Minnesota(6)",27013,_ 
+"Bourbon County, Kansas(6)",20011,_ 
+"Brown County, Kansas(6)",20013,_ 
+"Brown County, Minnesota(6)",27015,_ 
+"Butler County, Kansas(6)",20015,_ 
+"Carlton County, Minnesota(6)",27017,_ 
+"Carver County, Minnesota(6)",27019,_ 
+"Cass County, Minnesota(6)",27021,_ 
+"Chase County, Kansas(6)",20017,_ 
+"Chautauqua County, Kansas(6)",20019,_ 
+"Cherokee County, Kansas(6)",20021,_ 
+"Cheyenne County, Kansas(6)",20023,_ 
+"Chippewa County, Minnesota(6)",27023,_ 
+"Chisago County, Minnesota(6)",27025,_ 
+"Clark County, Kansas(6)",20025,_ 
+"Clay County, Kansas(6)",20027,_ 
+"Clay County, Minnesota(6)",27027,_ 
+"Clearwater County, Minnesota(6)",27029,_ 
+"Cloud County, Kansas(6)",20029,_ 
+"Coffey County, Kansas(6)",20031,_ 
+"Comanche County, Kansas(6)",20033,_ 
+"Cook County, Minnesota(6)",27031,_ 
+"Cottonwood County, Minnesota(6)",27033,_ 
+"Cowley County, Kansas(6)",20035,_ 
+"Crawford County, Kansas(6)",20037,_ 
+"Crow Wing County, Minnesota(6)",27035,_ 
+"Dakota County, Minnesota(6)",27037,_ 
+"Decatur County, Kansas(6)",20039,_ 
+"Dickinson County, Kansas(6)",20041,_ 
+"Dodge County, Minnesota(6)",27039,_ 
+"Doniphan County, Kansas(6)",20043,_ 
+"Douglas County, Kansas(6)",20045,_ 
+"Douglas County, Minnesota(6)",27041,_ 
+"Edwards County, Kansas(6)",20047,_ 
+"Elk County, Kansas(6)",20049,_ 
+"Ellis County, Kansas(6)",20051,_ 
+"Ellsworth County, Kansas(6)",20053,_ 
+"Faribault County, Minnesota(6)",27043,_ 
+"Fillmore County, Minnesota(6)",27045,_ 
+"Finney County, Kansas(6)",20055,_ 
+"Ford County, Kansas(6)",20057,_ 
+"Franklin County, Kansas(6)",20059,_ 
+"Freeborn County, Minnesota(6)",27047,_ 
+"Geary County, Kansas(6)",20061,_ 
+"Goodhue County, Minnesota(6)",27049,_ 
+"Gove County, Kansas(6)",20063,_ 
+"Graham County, Kansas(6)",20065,_ 
+"Grant County, Kansas(6)",20067,_ 
+"Grant County, Minnesota(6)",27051,_ 
+"Gray County, Kansas(6)",20069,_ 
+"Greeley County, Kansas(6)",20071,_ 
+"Greenwood County, Kansas(6)",20073,_ 
+"Hamilton County, Kansas(6)",20075,_ 
+"Harper County, Kansas(6)",20077,_ 
+"Harvey County, Kansas(6)",20079,_ 
+"Haskell County, Kansas(6)",20081,_ 
+"Hennepin County, Minnesota(6)",27053,_ 
+"Hodgeman County, Kansas(6)",20083,_ 
+"Houston County, Minnesota(6)",27055,_ 
+"Hubbard County, Minnesota(6)",27057,_ 
+"Isanti County, Minnesota(6)",27059,_ 
+"Itasca County, Minnesota(6)",27061,_ 
+"Jackson County, Kansas(6)",20085,_ 
+"Jackson County, Minnesota(6)",27063,_ 
+"Jefferson County, Kansas(6)",20087,_ 
+"Jewell County, Kansas(6)",20089,_ 
+"Johnson County, Kansas(6)",20091,_ 
+"Kanabec County, Minnesota(6)",27065,_ 
+"Kandiyohi County, Minnesota(6)",27067,_ 
+"Kearny County, Kansas(6)",20093,_ 
+"Kingman County, Kansas(6)",20095,_ 
+"Kiowa County, Kansas(6)",20097,_ 
+"Kittson County, Minnesota(6)",27069,_ 
+"Koochiching County, Minnesota(6)",27071,_ 
+"Labette County, Kansas(6)",20099,_ 
+"Lac qui Parle County, Minnesota(6)",27073,_ 
+"Lake County, Minnesota(6)",27075,_ 
+"Lake of the Woods County, Minnesota(6)",27077,_ 
+"Lane County, Kansas(6)",20101,_ 
+"Le Sueur County, Minnesota(6)",27079,_ 
+"Leavenworth County, Kansas(6)",20103,_ 
+"Lincoln County, Kansas(6)",20105,_ 
+"Lincoln County, Minnesota(6)",27081,_ 
+"Linn County, Kansas(6)",20107,_ 
+"Logan County, Kansas(6)",20109,_ 
+"Lyon County, Kansas(6)",20111,_ 
+"Lyon County, Minnesota(6)",27083,_ 
+"Mahnomen County, Minnesota(6)",27087,_ 
+"Marion County, Kansas(6)",20115,_ 
+"Marshall County, Kansas(6)",20117,_ 
+"Marshall County, Minnesota(6)",27089,_ 
+"Martin County, Minnesota(6)",27091,_ 
+"McLeod County, Minnesota(6)",27085,_ 
+"McPherson County, Kansas(6)",20113,_ 
+"Meade County, Kansas(6)",20119,_ 
+"Meeker County, Minnesota(6)",27093,_ 
+"Miami County, Kansas(6)",20121,_ 
+"Mille Lacs County, Minnesota(6)",27095,_ 
+"Mitchell County, Kansas(6)",20123,_ 
+"Montgomery County, Kansas(6)",20125,_ 
+"Morris County, Kansas(6)",20127,_ 
+"Morrison County, Minnesota(6)",27097,_ 
+"Morton County, Kansas(6)",20129,_ 
+"Mower County, Minnesota(6)",27099,_ 
+"Murray County, Minnesota(6)",27101,_ 
+"Nemaha County, Kansas(6)",20131,_ 
+"Neosho County, Kansas(6)",20133,_ 
+"Ness County, Kansas(6)",20135,_ 
+"Nicollet County, Minnesota(6)",27103,_ 
+"Nobles County, Minnesota(6)",27105,_ 
+"Norman County, Minnesota(6)",27107,_ 
+"Norton County, Kansas(6)",20137,_ 
+"Olmsted County, Minnesota(6)",27109,_ 
+"Osage County, Kansas(6)",20139,_ 
+"Osborne County, Kansas(6)",20141,_ 
+"Ottawa County, Kansas(6)",20143,_ 
+"Otter Tail County, Minnesota(6)",27111,_ 
+"Pawnee County, Kansas(6)",20145,_ 
+"Pennington County, Minnesota(6)",27113,_ 
+"Phillips County, Kansas(6)",20147,_ 
+"Pine County, Minnesota(6)",27115,_ 
+"Pipestone County, Minnesota(6)",27117,_ 
+"Polk County, Minnesota(6)",27119,_ 
+"Pope County, Minnesota(6)",27121,_ 
+"Pottawatomie County, Kansas(6)",20149,_ 
+"Pratt County, Kansas(6)",20151,_ 
+"Ramsey County, Minnesota(6)",27123,_ 
+"Rawlins County, Kansas(6)",20153,_ 
+"Red Lake County, Minnesota(6)",27125,_ 
+"Redwood County, Minnesota(6)",27127,_ 
+"Reno County, Kansas(6)",20155,_ 
+"Renville County, Minnesota(6)",27129,_ 
+"Republic County, Kansas(6)",20157,_ 
+"Rice County, Kansas(6)",20159,_ 
+"Rice County, Minnesota(6)",27131,_ 
+"Riley County, Kansas(6)",20161,_ 
+"Rock County, Minnesota(6)",27133,_ 
+"Rooks County, Kansas(6)",20163,_ 
+"Roseau County, Minnesota(6)",27135,_ 
+"Rush County, Kansas(6)",20165,_ 
+"Russell County, Kansas(6)",20167,_ 
+"Saline County, Kansas(6)",20169,_ 
+"Scott County, Kansas(6)",20171,_ 
+"Scott County, Minnesota(6)",27139,_ 
+"Sedgwick County, Kansas(6)",20173,_ 
+"Seward County, Kansas(6)",20175,_ 
+"Shawnee County, Kansas(6)",20177,_ 
+"Sherburne County, Minnesota(6)",27141,_ 
+"Sheridan County, Kansas(6)",20179,_ 
+"Sherman County, Kansas(6)",20181,_ 
+"Sibley County, Minnesota(6)",27143,_ 
+"Smith County, Kansas(6)",20183,_ 
+"St. Louis County, Minnesota(6)",27137,_ 
+"Stafford County, Kansas(6)",20185,_ 
+"Stanton County, Kansas(6)",20187,_ 
+"Stearns County, Minnesota(6)",27145,_ 
+"Steele County, Minnesota(6)",27147,_ 
+"Stevens County, Kansas(6)",20189,_ 
+"Stevens County, Minnesota(6)",27149,_ 
+"Sumner County, Kansas(6)",20191,_ 
+"Swift County, Minnesota(6)",27151,_ 
+"Thomas County, Kansas(6)",20193,_ 
+"Todd County, Minnesota(6)",27153,_ 
+"Traverse County, Minnesota(6)",27155,_ 
+"Trego County, Kansas(6)",20195,_ 
+"Wabasha County, Minnesota(6)",27157,_ 
+"Wabaunsee County, Kansas(6)",20197,_ 
+"Wadena County, Minnesota(6)",27159,_ 
+"Wallace County, Kansas(6)",20199,_ 
+"Waseca County, Minnesota(6)",27161,_ 
+"Washington County, Kansas(6)",20201,_ 
+"Washington County, Minnesota(6)",27163,_ 
+"Watonwan County, Minnesota(6)",27165,_ 
+"Wichita County, Kansas(6)",20203,_ 
+"Wilkin County, Minnesota(6)",27167,_ 
+"Wilson County, Kansas(6)",20205,_ 
+"Winona County, Minnesota(6)",27169,_ 
+"Woodson County, Kansas(6)",20207,_ 
+"Wright County, Minnesota(6)",27171,_ 
+"Wyandotte County, Kansas(6)",20209,_ 
+"Yellow Medicine County, Minnesota(6)",27173,_ 
+"Carson City, Nevada(6)",32510,__ 
+"Churchill County, Nevada(6)",32001,__ 
+"Clark County, Nevada(6)",32003,__ 
+"Douglas County, Nevada(6)",32005,__ 
+"Elko County, Nevada(6)",32007,__ 
+"Esmeralda County, Nevada(6)",32009,__ 
+"Eureka County, Nevada(6)",32011,__ 
+"Humboldt County, Nevada(6)",32013,__ 
+"Lander County, Nevada(6)",32015,__ 
+"Lincoln County, Nevada(6)",32017,__ 
+"Lyon County, Nevada(6)",32019,__ 
+"Mineral County, Nevada(6)",32021,__ 
+"Nye County, Nevada(6)",32023,__ 
+"Pershing County, Nevada(6)",32027,__ 
+"Storey County, Nevada(6)",32029,__ 
+"Washoe County, Nevada(6)",32031,__ 
+"White Pine County, Nevada(6)",32033,__ 
+Created by statecancerprofiles.cancer.gov on 04/23/2016 4:11 pm.,,
+Data for the United States does not include data from Nevada.,,
+State Cancer Registries may provide more current or more local data.,,
+"Ê Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [http://seer.cancer.gov/popdata/] by NCI. The 1969-2013 US Population Data File [http://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,
+"ˆ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,
+ _ Data not available because of state legislation and regulations which prohibit the release of county level data to outside entities.,,
+# Data do not include cases diagnosed in other states for those states in which the data exchange agreement specifically prohibits the release of data to third parties.,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 cases were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,
+"_ The total count for the US (SEER+NPCR) may differ from the summation of the individual states reported in this table. The total uses data from the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) January 2015 data submission for the following states: California, Kentucky, Louisiana, and New Jersey but data for those states when shown individually are sourced from the SEER November 2014 submission. [http://seer.cancer.gov]",,
+__ Data not available for Nevada.,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2014 data submission and SEER November 2014 submission.,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2014 data submission. State rates include rates from metropolitan areas funded by SEER.,,
+7 Source: SEER November 2014 submission.,,
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( http://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2013 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2014 data. ",,
+"9 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ )  Rates are age-adjusted to the 2000 US ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. 1969-2013 US Population Data File is used with SEER November 2014 data. ",,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( http://www.cdc.gov/cancer/npcr/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2013 ( http://seer.cancer.gov/popdata/ ) US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with NPCR November 2014 data. ",,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,
+"Data not available [http://statecancerprofiles.cancer.gov/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity.",,

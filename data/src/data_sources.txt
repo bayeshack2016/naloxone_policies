@@ -1,0 +1,26 @@
+## CDC poisoning incidence data (county level):
+
+- https://data.cdc.gov/NCHS/NCHS-Drug-Poisoning-Mortality-County-Trends-United/pbkm-d27e
+
+- http://blogs.cdc.gov/nchs-data-visualization/drug-poisoning-mortality/
+dataset: 
+
+NCHS_-_Drug_Poisoning_Mortality__County_Trends__United_States__1999_2014.csv
+
+
+
+## state level ease of access to naloxone
+http://www.namsdl.org/naloxone-maps.cfm
+
+
+## Corey Davis legal differences between years
+
+Small area poverty estimates
+http://www.census.gov/did/www/saipe/data/interactive/saipe.html?s_appName=saipe&map_yearSelector=2014&map_geoSelector=aa_c&menu=grid_proxy&s_inclUsTot=n&s_inclStTot=n
+
+## county level population estimates
+sampleneeds.RData
+based on ACS2013 estimates plus county level estimates of poverty rates and puma to county crosswalks 
+
+## county to zipcode crosswalk exported from MABLE/Geocorr12: Geographic Correspondence Engine at Missouri Census Data Center:
+ http://mcdc.missouri.edu/websas/geocorr12.html
