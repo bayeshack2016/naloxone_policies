@@ -1,0 +1,52 @@
+state, naloxone_law, date,immunity_prescribers_civil,immunity_prescribers_criminal,immunity_prescribers_disciplinary,immunity_dispensers_civil,immunity_dispensers_criminal,immunity_dispensers_disciplinary,immunity_lay_administrators_civil,immunity_lay_administrators_criminal,lay_distribution,lay_possesion_without_rx,prescribin_permitted_third_party,prescribing_permitted_standing_order
+AL,Yes,2015,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+AK,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+AZ,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+AR,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+CA,Yes, 2014-2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CO,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CT,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+DC,Yes,2013,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No
+DE,Yes,2014,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+FL,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+GA,Yes,2014,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+HI,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+IA,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+ID,Yes,2015,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+IL,Yes, 2010 & 2015,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+IN,Yes,2015,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes
+KS,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+KY,Yes,2015,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes
+LA,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+MA,Yes, 2012 & 2014,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No
+MD,Yes,2015,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+ME,Yes, 2014 and 2015,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes
+MI,Yes,2014,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No
+MN,Yes,2014,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+MO,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+MS,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+MT,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+NC,Yes,2013,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes
+ND,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NE,Yes,2015,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No
+NH,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+NJ,Yes,2013,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+NM,Yes,2001,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No
+NV,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NY,Yes,2014,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+OH,Yes, 2014 and 2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+OK,Yes, 2013 and 2014,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+OR,Yes,2013,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No
+PA,Yes,2014,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+RI,Yes,2014,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes
+SC,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+SD,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
+TN,Yes,2014,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes
+TX,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+UT,Yes,2014,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+VA,Yes,2015,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+VT,Yes, 2013 and 2014,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+WA,Yes,2015,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+WI,Yes,2014,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+WV,Yes,2015,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+WY,No,NA,No,No,No,No,No,No,No,No,No,No,No,No
