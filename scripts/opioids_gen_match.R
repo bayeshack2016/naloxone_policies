@@ -45,3 +45,5 @@ for(var in vars){
   opioid[[paste0('estimate_', var)]][opioid[[var]] %in% 'No'] <- opioid$ratesplit_low[opioid[[var]] %in% 'No'] - estimate
   opioid[[paste0('estimate_', var)]][opioid[[var]] %in% 'Yes'] <- opioid$ratesplit_low[opioid[[var]] %in% 'Yes']
 }
+
+save(opioid, file='./data/opioid_with_estimates.RData')
