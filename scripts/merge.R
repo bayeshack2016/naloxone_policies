@@ -3,8 +3,6 @@ library(stringr)
 library(plyr)
 library(ggplot2)
 
-setwd("/Users/steffen/Dropbox (YouGov Analytics)/Hack/")
-
 claims <- read.xlsx("./data/src/CMS/Part_D_Opioid_Geographic_Data.xlsx", sheet=2)
 
 deaths <- read.csv(file = "./data/src/cdc/NCHS_-_Drug_Poisoning_Mortality__County_Trends__United_States__1999_2014.csv", header = TRUE, stringsAsFactors = FALSE)
