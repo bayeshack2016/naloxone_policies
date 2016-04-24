@@ -1,6 +1,5 @@
-setwd("~/Downloads/ICPSR_35019/DS0004/") 
 
-load("35019-0004-Data.rda")
+load("./data/src/nat archive of criminal justice data/35019-0001-Data.rda")
 df <- da35019.0001
 names(df) <- tolower(names(df))
 
@@ -11,4 +10,4 @@ df$fips_st <- formatC(df$fips_st, flag=0, width=2)
 df$fips_cty <- formatC(df$fips_cty, flag=0, width=3)
 df$fips <- paste0(df$fips_st, df$fips_cty) 
 
-save(df, file='~/Dropbox (YouGov Analytics)/Hack/data/src/crime_by_county.RData')
+save(df, file='./data/src/nat archive of criminal justice data/crime_by_county.RData')
