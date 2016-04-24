@@ -21,7 +21,7 @@ In data/src you can find all the sources and data we used to estimate the effect
 We used a combination of data sources, mainly CDC data and American Community Survey data.
 Naloxone regulations were obtained from Corey Davis recollection (see his article in data/src/article). As our data was from 2014, we only counted those states with naloxone regulations prior to 2014.
 
-## Estimation of causal effects:
+## Estimation of causal effects
 To estimate the impact of state level restrictions and regulations of Naloxone sales, prescription, and possession, we built a county level dataset of age-adjusted death rates for drug poisoning per 100,000 population (based on CDC estimates), and merged it with county data from the 2013 American Community survey on demographics and sociographic characteristics. This data was combined with the provided CMS data on Medicare Part D prescription data.
 
 We estimated Average Treatment Effects (ATE) of state level regulation through genetic matching using the R package genmatch.
