@@ -6,8 +6,6 @@ library(plyr)
 library(ggplot2)
 library(Matching)
 
-setwd("/Users/steffen/Dropbox (YouGov Analytics)/Hack/")
-
 load("./data/opioid.RData")
 opioid$vetshare <- opioid$veteran/opioid$pop13
 opioid$claimpop <- opioid$Opioid.Claim.Count/opioid$pop13

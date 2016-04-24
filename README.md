@@ -12,7 +12,7 @@ However, the access to naloxone varies highly across the country. While some sta
 
 In this project we mimic an experiment setting to measure the effect of introducing permissive naloxone regulations in the number of deaths caused by drug intoxication. In addition, we provide an app that allows users to quickly identify the existing regulations in each county, as well as the levels of deaths by drug intoxication, the number of opioids providers, data on opioid consumption, among other relevant variables.
 
-Our analysis shows that if states would introduce permissive regulations for prescribers or dispensers of naloxone, a large number of deaths could be avoid per year.
+Our analysis shows that if states would introduce permissive regulations for prescribers or dispensers of naloxone could reduce total overdose related deaths by 1.5 per cent (the equivalent of 300 deaths a year for 2014).
 
 ## Data
 In data/src you can find all the sources and data we used to estimate the effects of naloxone regulations. 
