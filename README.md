@@ -30,7 +30,7 @@ library(shiny)
 runApp("(/path/to/project_root/naloxone_app")
 
 ## Team
-Persephone Tsebelis (), Steffen Weiss (), Eugenia Giraudy ()
+Persephone Tsebelis (https://github.com/persephonet), Steffen Weiss (https://github.com/steffenweiss), Eugenia Giraudy (https://github.com/eugeniagiraudy)
 
 ## Dependencies
 For the shiny app install the following packages:
