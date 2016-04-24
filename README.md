@@ -30,6 +30,15 @@ library(shiny)
 runApp("(/path/to/project_root/naloxone_app")
 
 ## Team
-Persephone Tsebelis, Steffen Weiss, Eugenia Giraudy
+Persephone Tsebelis (), Steffen Weiss (), Eugenia Giraudy ()
 
+## Dependencies
+For the shiny app install the following packages:
+  - shiny
+  - leaflet
+  - rcolorbrewer
+  - scales
+  - lattice
+  - dplyr
+  - raster
 
