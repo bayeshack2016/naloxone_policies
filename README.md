@@ -1,6 +1,6 @@
 # Naloxone Regulations Effects
 
-HHS Prompt 2
+HHS Prompt 2\\
 Measuring causal effect of naloxone regulation policies on drug abuse deaths
 
 ## Prompt
@@ -36,7 +36,7 @@ To see the results we built a shiny app. The app shows a set of maps where the u
 
 To visualize the results run the following code in R:
 
-library(shiny)
+library(shiny)\\
 runApp("(/path/to/project_root/naloxone_app")
 
 ## Team
